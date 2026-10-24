@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="604">
+        <Folder id="605">
+            <name>Tappeh Khosrow — B_ctx300 (107)</name>
+            <Placemark id="607">
+                <name>B_ctx300-1 D=255.6</name>
+                <description>lat 35.1766832
+lon 49.6632128
+Mahalanobis 255.59</description>
+                <Point id="606">
+                    <coordinates>49.663212824219464,35.1766832291789,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="609">
+                <name>B_ctx300-2 D=179.8</name>
+                <description>lat 35.1684386
+lon 49.6596145
+Mahalanobis 179.81</description>
+                <Point id="608">
+                    <coordinates>49.65961450941851,35.16843858118627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="611">
+                <name>B_ctx300-3 D=171.5</name>
+                <description>lat 35.1686262
+lon 49.6602702
+Mahalanobis 171.47</description>
+                <Point id="610">
+                    <coordinates>49.66027024640118,35.16862616328659,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="613">
+                <name>B_ctx300-4 D=164.8</name>
+                <description>lat 35.1686870
+lon 49.6739946
+Mahalanobis 164.77</description>
+                <Point id="612">
+                    <coordinates>49.67399459889586,35.16868703017888,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="615">
+                <name>B_ctx300-5 D=164.8</name>
+                <description>lat 35.1693613
+lon 49.6697013
+Mahalanobis 164.76</description>
+                <Point id="614">
+                    <coordinates>49.669701303850275,35.16936126074818,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="617">
+                <name>B_ctx300-6 D=160.4</name>
+                <description>lat 35.1761973
+lon 49.6600362
+Mahalanobis 160.37</description>
+                <Point id="616">
+                    <coordinates>49.66003620832106,35.17619730679558,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="619">
+                <name>B_ctx300-7 D=156.3</name>
+                <description>lat 35.1685360
+lon 49.6602717
+Mahalanobis 156.26</description>
+                <Point id="618">
+                    <coordinates>49.660271725231695,35.16853601610537,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="621">
+                <name>B_ctx300-8 D=154.1</name>
+                <description>lat 35.1692711
+lon 49.6697028
+Mahalanobis 154.11</description>
+                <Point id="620">
+                    <coordinates>49.66970277231235,35.169271113231076,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="623">
+                <name>B_ctx300-9 D=148.0</name>
+                <description>lat 35.1686858
+lon 49.6738848
+Mahalanobis 148.05</description>
+                <Point id="622">
+                    <coordinates>49.6738848155022,35.16868582823244,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="625">
+                <name>B_ctx300-10 D=145.7</name>
+                <description>lat 35.1685372
+lon 49.6603815
+Mahalanobis 145.66</description>
+                <Point id="624">
+                    <coordinates>49.660381507815295,35.16853723038407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="627">
+                <name>B_ctx300-11 D=138.7</name>
+                <description>lat 35.1707123
+lon 49.6695695
+Mahalanobis 138.71</description>
+                <Point id="626">
+                    <coordinates>49.66956949021165,35.17071226741982,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="629">
+                <name>B_ctx300-12 D=138.3</name>
+                <description>lat 35.1706221
+lon 49.6695710
+Mahalanobis 138.34</description>
+                <Point id="628">
+                    <coordinates>49.66957095889264,35.170622119927685,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="631">
+                <name>B_ctx300-13 D=136.3</name>
+                <description>lat 35.1684471
+lon 49.6603830
+Mahalanobis 136.35</description>
+                <Point id="630">
+                    <coordinates>49.66038298651815,35.168447083197414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="633">
+                <name>B_ctx300-14 D=135.8</name>
+                <description>lat 35.1738571
+lon 49.6604040
+Mahalanobis 135.80</description>
+                <Point id="632">
+                    <coordinates>49.66040404245972,35.17385712633858,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="635">
+                <name>B_ctx300-15 D=135.7</name>
+                <description>lat 35.1692699
+lon 49.6695930
+Mahalanobis 135.75</description>
+                <Point id="634">
+                    <coordinates>49.669592988324894,35.16926990737789,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="637">
+                <name>B_ctx300-16 D=134.8</name>
+                <description>lat 35.1685287
+lon 49.6596130
+Mahalanobis 134.80</description>
+                <Point id="636">
+                    <coordinates>49.65961302986801,35.16852872834468,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="639">
+                <name>B_ctx300-17 D=134.7</name>
+                <description>lat 35.1693601
+lon 49.6695915
+Mahalanobis 134.69</description>
+                <Point id="638">
+                    <coordinates>49.669591519741715,35.16936005489098,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="641">
+                <name>B_ctx300-18 D=133.8</name>
+                <description>lat 35.1761072
+lon 49.6600377
+Mahalanobis 133.78</description>
+                <Point id="640">
+                    <coordinates>49.660037687824385,35.17610715973587,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="643">
+                <name>B_ctx300-19 D=133.8</name>
+                <description>lat 35.1687163
+lon 49.6602688
+Mahalanobis 133.77</description>
+                <Point id="642">
+                    <coordinates>49.6602687675641,35.168716310466415,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="645">
+                <name>B_ctx300-20 D=133.7</name>
+                <description>lat 35.1694144
+lon 49.6581710
+Mahalanobis 133.74</description>
+                <Point id="644">
+                    <coordinates>49.658171045782815,35.16941439689644,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="647">
+                <name>B_ctx300-21 D=133.4</name>
+                <description>lat 35.1687784
+lon 49.6741029
+Mahalanobis 133.40</description>
+                <Point id="646">
+                    <coordinates>49.67410291872342,35.16877837971269,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="649">
+                <name>B_ctx300-22 D=132.5</name>
+                <description>lat 35.1737670
+lon 49.6604055
+Mahalanobis 132.45</description>
+                <Point id="648">
+                    <coordinates>49.660405521428885,35.17376697923039,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="651">
+                <name>B_ctx300-23 D=131.6</name>
+                <description>lat 35.1687151
+lon 49.6601590
+Mahalanobis 131.63</description>
+                <Point id="650">
+                    <coordinates>49.660158984744875,35.1687150960802,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="653">
+                <name>B_ctx300-24 D=129.3</name>
+                <description>lat 35.1691798
+lon 49.6695945
+Mahalanobis 129.25</description>
+                <Point id="652">
+                    <coordinates>49.66959445690154,35.169179759863376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="655">
+                <name>B_ctx300-25 D=126.6</name>
+                <description>lat 35.1686249
+lon 49.6601605
+Mahalanobis 126.57</description>
+                <Point id="654">
+                    <coordinates>49.66016046370305,35.16862494890441,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="657">
+                <name>B_ctx300-26 D=125.4</name>
+                <description>lat 35.1763807
+lon 49.6684888
+Mahalanobis 125.37</description>
+                <Point id="656">
+                    <coordinates>49.66848880845154,35.176380696603054,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="659">
+                <name>B_ctx300-27 D=124.5</name>
+                <description>lat 35.1757400
+lon 49.6676208
+Mahalanobis 124.46</description>
+                <Point id="658">
+                    <coordinates>49.66762075863072,35.17574000512088,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="661">
+                <name>B_ctx300-28 D=124.3</name>
+                <description>lat 35.1764969
+lon 49.6626668
+Mahalanobis 124.34</description>
+                <Point id="660">
+                    <coordinates>49.66266680922973,35.17649687410517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="663">
+                <name>B_ctx300-29 D=123.7</name>
+                <description>lat 35.1775707
+lon 49.6701166
+Mahalanobis 123.75</description>
+                <Point id="662">
+                    <coordinates>49.67011662225592,35.17757070857059,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="665">
+                <name>B_ctx300-30 D=122.9</name>
+                <description>lat 35.1706209
+lon 49.6694612
+Mahalanobis 122.86</description>
+                <Point id="664">
+                    <coordinates>49.669461173095165,35.170620913914945,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="667">
+                <name>B_ctx300-31 D=122.1</name>
+                <description>lat 35.1783446
+lon 49.6666997
+Mahalanobis 122.11</description>
+                <Point id="666">
+                    <coordinates>49.66669972508181,35.17834461036376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="669">
+                <name>B_ctx300-32 D=120.7</name>
+                <description>lat 35.1693625
+lon 49.6698111
+Mahalanobis 120.73</description>
+                <Point id="668">
+                    <coordinates>49.66981108796534,35.16936246650593,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="671">
+                <name>B_ctx300-33 D=120.5</name>
+                <description>lat 35.1674959
+lon 49.6722571
+Mahalanobis 120.55</description>
+                <Point id="670">
+                    <coordinates>49.67225711799134,35.1674958679282,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="673">
+                <name>B_ctx300-34 D=120.4</name>
+                <description>lat 35.1720274
+lon 49.6580183
+Mahalanobis 120.43</description>
+                <Point id="672">
+                    <coordinates>49.658018301223095,35.17202744552884,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="675">
+                <name>B_ctx300-35 D=119.4</name>
+                <description>lat 35.1671887
+lon 49.6607330
+Mahalanobis 119.42</description>
+                <Point id="674">
+                    <coordinates>49.66073303000999,35.16718866449534,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="677">
+                <name>B_ctx300-36 D=119.3</name>
+                <description>lat 35.1774262
+lon 49.6651773
+Mahalanobis 119.31</description>
+                <Point id="676">
+                    <coordinates>49.66517732026653,35.17742620525577,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="679">
+                <name>B_ctx300-37 D=118.8</name>
+                <description>lat 35.1769421
+lon 49.6703465
+Mahalanobis 118.78</description>
+                <Point id="678">
+                    <coordinates>49.670346489917954,35.176942087765745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="681">
+                <name>B_ctx300-38 D=117.5</name>
+                <description>lat 35.1755238
+lon 49.6725658
+Mahalanobis 117.48</description>
+                <Point id="680">
+                    <coordinates>49.672565828897646,35.17552381652837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="683">
+                <name>B_ctx300-39 D=117.2</name>
+                <description>lat 35.1729581
+lon 49.6606384
+Mahalanobis 117.21</description>
+                <Point id="682">
+                    <coordinates>49.66063840892427,35.17295808364921,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="685">
+                <name>B_ctx300-40 D=116.3</name>
+                <description>lat 35.1650494
+lon 49.6629641
+Mahalanobis 116.29</description>
+                <Point id="684">
+                    <coordinates>49.66296406498475,35.16504938641514,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="687">
+                <name>B_ctx300-41 D=115.9</name>
+                <description>lat 35.1675031
+lon 49.6729158
+Mahalanobis 115.94</description>
+                <Point id="686">
+                    <coordinates>49.67291580842039,35.16750308675415,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="689">
+                <name>B_ctx300-42 D=115.9</name>
+                <description>lat 35.1654051
+lon 49.6625190
+Mahalanobis 115.87</description>
+                <Point id="688">
+                    <coordinates>49.6625190483237,35.16540512773843,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="691">
+                <name>B_ctx300-43 D=115.6</name>
+                <description>lat 35.1776609
+lon 49.6701152
+Mahalanobis 115.57</description>
+                <Point id="690">
+                    <coordinates>49.67011515379959,35.177660855979134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="693">
+                <name>B_ctx300-44 D=115.3</name>
+                <description>lat 35.1747834
+lon 49.6708209
+Mahalanobis 115.33</description>
+                <Point id="692">
+                    <coordinates>49.67082088975334,35.17478336972447,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="695">
+                <name>B_ctx300-45 D=115.0</name>
+                <description>lat 35.1707111
+lon 49.6694597
+Mahalanobis 115.01</description>
+                <Point id="694">
+                    <coordinates>49.669459704293075,35.170711061403075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="697">
+                <name>B_ctx300-46 D=114.7</name>
+                <description>lat 35.1650482
+lon 49.6628543
+Mahalanobis 114.72</description>
+                <Point id="696">
+                    <coordinates>49.6628542869725,35.16504817458087,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="699">
+                <name>B_ctx300-47 D=114.6</name>
+                <description>lat 35.1740175
+lon 49.6667704
+Mahalanobis 114.62</description>
+                <Point id="698">
+                    <coordinates>49.66677038639054,35.174017539679866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="701">
+                <name>B_ctx300-48 D=113.7</name>
+                <description>lat 35.1706751
+lon 49.6744015
+Mahalanobis 113.66</description>
+                <Point id="700">
+                    <coordinates>49.67440154042992,35.17067508602116,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="703">
+                <name>B_ctx300-49 D=113.6</name>
+                <description>lat 35.1654039
+lon 49.6624093
+Mahalanobis 113.63</description>
+                <Point id="702">
+                    <coordinates>49.66240926985337,35.16540391549028,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="705">
+                <name>B_ctx300-50 D=112.6</name>
+                <description>lat 35.1698345
+lon 49.6635446
+Mahalanobis 112.58</description>
+                <Point id="704">
+                    <coordinates>49.66354455222946,35.16983446330626,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="707">
+                <name>B_ctx300-51 D=112.2</name>
+                <description>lat 35.1757065
+lon 49.6727825
+Mahalanobis 112.21</description>
+                <Point id="706">
+                    <coordinates>49.67278248315341,35.175706518189216,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="709">
+                <name>B_ctx300-52 D=112.2</name>
+                <description>lat 35.1710381
+lon 49.6746153
+Mahalanobis 112.18</description>
+                <Point id="708">
+                    <coordinates>49.67461526013811,35.17103807969145,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="711">
+                <name>B_ctx300-53 D=111.8</name>
+                <description>lat 35.1734076
+lon 49.6605212
+Mahalanobis 111.80</description>
+                <Point id="710">
+                    <coordinates>49.660521226376396,35.17340760508129,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="713">
+                <name>B_ctx300-54 D=111.6</name>
+                <description>lat 35.1651383
+lon 49.6628528
+Mahalanobis 111.61</description>
+                <Point id="712">
+                    <coordinates>49.66285281118271,35.1651383219093,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="715">
+                <name>B_ctx300-55 D=111.3</name>
+                <description>lat 35.1763819
+lon 49.6685986
+Mahalanobis 111.32</description>
+                <Point id="714">
+                    <coordinates>49.668598601948744,35.176381903668045,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="717">
+                <name>B_ctx300-56 D=110.3</name>
+                <description>lat 35.1741077
+lon 49.6667689
+Mahalanobis 110.27</description>
+                <Point id="716">
+                    <coordinates>49.66676891443355,35.17410768701864,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="719">
+                <name>B_ctx300-57 D=109.7</name>
+                <description>lat 35.1757388
+lon 49.6675110
+Mahalanobis 109.67</description>
+                <Point id="718">
+                    <coordinates>49.66751096604026,35.17573879718863,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="721">
+                <name>B_ctx300-58 D=109.4</name>
+                <description>lat 35.1674971
+lon 49.6723669
+Mahalanobis 109.43</description>
+                <Point id="720">
+                    <coordinates>49.672366899713246,35.16749707131448,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="723">
+                <name>B_ctx300-59 D=109.4</name>
+                <description>lat 35.1653186
+lon 49.6628499
+Mahalanobis 109.38</description>
+                <Point id="722">
+                    <coordinates>49.66284985958346,35.16531861656199,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="725">
+                <name>B_ctx300-60 D=109.3</name>
+                <description>lat 35.1717009
+lon 49.6610983
+Mahalanobis 109.34</description>
+                <Point id="724">
+                    <coordinates>49.661098257017585,35.17170087919004,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="727">
+                <name>B_ctx300-61 D=108.8</name>
+                <description>lat 35.1648715
+lon 49.6631866
+Mahalanobis 108.76</description>
+                <Point id="726">
+                    <coordinates>49.6631865718624,35.16487151510017,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="729">
+                <name>B_ctx300-62 D=108.7</name>
+                <description>lat 35.1674947
+lon 49.6721473
+Mahalanobis 108.67</description>
+                <Point id="728">
+                    <coordinates>49.672147336275934,35.167494664442465,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="731">
+                <name>B_ctx300-63 D=108.6</name>
+                <description>lat 35.1781945
+lon 49.6694476
+Mahalanobis 108.59</description>
+                <Point id="730">
+                    <coordinates>49.669447566953714,35.17819450439468,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="733">
+                <name>B_ctx300-64 D=108.4</name>
+                <description>lat 35.1674923
+lon 49.6719278
+Mahalanobis 108.44</description>
+                <Point id="732">
+                    <coordinates>49.671927772864656,35.16749225717263,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="735">
+                <name>B_ctx300-65 D=107.9</name>
+                <description>lat 35.1773373
+lon 49.6652886
+Mahalanobis 107.94</description>
+                <Point id="734">
+                    <coordinates>49.66528858879513,35.17733726811864,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="737">
+                <name>B_ctx300-66 D=107.8</name>
+                <description>lat 35.1728679
+lon 49.6606399
+Mahalanobis 107.77</description>
+                <Point id="736">
+                    <coordinates>49.66063988758553,35.172867936519,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="739">
+                <name>B_ctx300-67 D=107.3</name>
+                <description>lat 35.1670169
+lon 49.6615045
+Mahalanobis 107.30</description>
+                <Point id="738">
+                    <coordinates>49.66150445048301,35.167016864652496,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="741">
+                <name>B_ctx300-68 D=107.0</name>
+                <description>lat 35.1671905
+lon 49.6690779
+Mahalanobis 107.04</description>
+                <Point id="740">
+                    <coordinates>49.669077858024295,35.16719048389362,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="743">
+                <name>B_ctx300-69 D=107.0</name>
+                <description>lat 35.1707480
+lon 49.6646277
+Mahalanobis 106.99</description>
+                <Point id="742">
+                    <coordinates>49.66462765620248,35.170748045509455,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="745">
+                <name>B_ctx300-70 D=105.9</name>
+                <description>lat 35.1675019
+lon 49.6728060
+Mahalanobis 105.89</description>
+                <Point id="744">
+                    <coordinates>49.67280602666595,35.16750188386512,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="747">
+                <name>B_ctx300-71 D=105.6</name>
+                <description>lat 35.1721196
+lon 49.6663621
+Mahalanobis 105.61</description>
+                <Point id="746">
+                    <coordinates>49.66636214524434,35.172119610375944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="749">
+                <name>B_ctx300-72 D=105.0</name>
+                <description>lat 35.1787929
+lon 49.6664728
+Mahalanobis 104.97</description>
+                <Point id="748">
+                    <coordinates>49.666472770354936,35.17879292887939,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="751">
+                <name>B_ctx300-73 D=104.9</name>
+                <description>lat 35.1673684
+lon 49.6688554
+Mahalanobis 104.93</description>
+                <Point id="750">
+                    <coordinates>49.668855357136295,35.16736836611165,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="753">
+                <name>B_ctx300-74 D=104.4</name>
+                <description>lat 35.1782847
+lon 49.6694461
+Mahalanobis 104.36</description>
+                <Point id="752">
+                    <coordinates>49.66944609772484,35.1782846517694,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="755">
+                <name>B_ctx300-75 D=103.6</name>
+                <description>lat 35.1722090
+lon 49.6581251
+Mahalanobis 103.62</description>
+                <Point id="754">
+                    <coordinates>49.65812512561611,35.172208956052714,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="757">
+                <name>B_ctx300-76 D=103.5</name>
+                <description>lat 35.1734588
+lon 49.6733681
+Mahalanobis 103.49</description>
+                <Point id="756">
+                    <coordinates>49.67336806517615,35.17345884365923,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="759">
+                <name>B_ctx300-77 D=102.4</name>
+                <description>lat 35.1706821
+lon 49.6668248
+Mahalanobis 102.36</description>
+                <Point id="758">
+                    <coordinates>49.66682484420494,35.17068208716265,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="761">
+                <name>B_ctx300-78 D=102.2</name>
+                <description>lat 35.1752929
+lon 49.6679575
+Mahalanobis 102.25</description>
+                <Point id="760">
+                    <coordinates>49.66795749008671,35.17529289151807,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="763">
+                <name>B_ctx300-79 D=102.1</name>
+                <description>lat 35.1730482
+lon 49.6606369
+Mahalanobis 102.14</description>
+                <Point id="762">
+                    <coordinates>49.660636930256445,35.17304823077805,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="765">
+                <name>B_ctx300-80 D=101.3</name>
+                <description>lat 35.1748735
+lon 49.6708194
+Mahalanobis 101.34</description>
+                <Point id="764">
+                    <coordinates>49.67081942222592,35.17487351720037,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="767">
+                <name>B_ctx300-81 D=101.1</name>
+                <description>lat 35.1701793
+lon 49.6621114
+Mahalanobis 101.14</description>
+                <Point id="766">
+                    <coordinates>49.662111447147346,35.17017929559915,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="769">
+                <name>B_ctx300-82 D=100.8</name>
+                <description>lat 35.1714876
+lon 49.6744982
+Mahalanobis 100.82</description>
+                <Point id="768">
+                    <coordinates>49.67449815720617,35.17148761655639,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="771">
+                <name>B_ctx300-83 D=100.5</name>
+                <description>lat 35.1723905
+lon 49.6582320
+Mahalanobis 100.54</description>
+                <Point id="770">
+                    <coordinates>49.658231950473855,35.172390466487684,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="773">
+                <name>B_ctx300-84 D=100.5</name>
+                <description>lat 35.1732183
+lon 49.6678815
+Mahalanobis 100.50</description>
+                <Point id="772">
+                    <coordinates>49.66788152553445,35.17321829425403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="775">
+                <name>B_ctx300-85 D=100.4</name>
+                <description>lat 35.1705909
+lon 49.6749519
+Mahalanobis 100.42</description>
+                <Point id="774">
+                    <coordinates>49.67495193368709,35.1705909450219,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="777">
+                <name>B_ctx300-86 D=100.3</name>
+                <description>lat 35.1723638
+lon 49.6721780
+Mahalanobis 100.31</description>
+                <Point id="776">
+                    <coordinates>49.67217796916043,35.172363838331464,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="779">
+                <name>B_ctx300-87 D=99.9</name>
+                <description>lat 35.1743091
+lon 49.6605064
+Mahalanobis 99.88</description>
+                <Point id="778">
+                    <coordinates>49.660506437863134,35.1743090761964,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="781">
+                <name>B_ctx300-88 D=99.9</name>
+                <description>lat 35.1721271
+lon 49.6752564
+Mahalanobis 99.85</description>
+                <Point id="780">
+                    <coordinates>49.67525643042172,35.17212705856406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="783">
+                <name>B_ctx300-89 D=99.0</name>
+                <description>lat 35.1755838
+lon 49.6698195
+Mahalanobis 98.99</description>
+                <Point id="782">
+                    <coordinates>49.669819549170086,35.175583848022,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="785">
+                <name>B_ctx300-90 D=99.0</name>
+                <description>lat 35.1717569
+lon 49.6743840
+Mahalanobis 98.97</description>
+                <Point id="784">
+                    <coordinates>49.674383979774106,35.171756857945816,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="787">
+                <name>B_ctx300-91 D=98.5</name>
+                <description>lat 35.1755573
+lon 49.6674041
+Mahalanobis 98.51</description>
+                <Point id="786">
+                    <coordinates>49.66740411614545,35.17555729448013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="789">
+                <name>B_ctx300-92 D=98.0</name>
+                <description>lat 35.1740386
+lon 49.6605109
+Mahalanobis 98.05</description>
+                <Point id="788">
+                    <coordinates>49.66051087448606,35.17403863487655,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="791">
+                <name>B_ctx300-93 D=97.6</name>
+                <description>lat 35.1773361
+lon 49.6651788
+Mahalanobis 97.62</description>
+                <Point id="790">
+                    <coordinates>49.66517879416142,35.17733605802496,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="793">
+                <name>B_ctx300-94 D=97.5</name>
+                <description>lat 35.1732285
+lon 49.6606340
+Mahalanobis 97.54</description>
+                <Point id="792">
+                    <coordinates>49.660633972901095,35.17322852503151,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="795">
+                <name>B_ctx300-95 D=97.3</name>
+                <description>lat 35.1717910
+lon 49.6610968
+Mahalanobis 97.29</description>
+                <Point id="794">
+                    <coordinates>49.66109677892612,35.17179102635459,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="797">
+                <name>B_ctx300-96 D=96.7</name>
+                <description>lat 35.1716029
+lon 49.6685667
+Mahalanobis 96.72</description>
+                <Point id="796">
+                    <coordinates>49.66856671911083,35.17160288417233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="799">
+                <name>B_ctx300-97 D=96.6</name>
+                <description>lat 35.1746486
+lon 49.6667601
+Mahalanobis 96.60</description>
+                <Point id="798">
+                    <coordinates>49.66676008255432,35.17464857102189,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="801">
+                <name>B_ctx300-98 D=96.5</name>
+                <description>lat 35.1747822
+lon 49.6707111
+Mahalanobis 96.55</description>
+                <Point id="800">
+                    <coordinates>49.670711098306136,35.17478216472117,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="803">
+                <name>B_ctx300-99 D=96.2</name>
+                <description>lat 35.1733175
+lon 49.6605227
+Mahalanobis 96.21</description>
+                <Point id="802">
+                    <coordinates>49.66052270519161,35.17331745796208,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="805">
+                <name>B_ctx300-100 D=95.5</name>
+                <description>lat 35.1744004
+lon 49.6606147
+Mahalanobis 95.50</description>
+                <Point id="804">
+                    <coordinates>49.66061474945114,35.17440043754269,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="807">
+                <name>B_ctx300-101 D=95.5</name>
+                <description>lat 35.1772894
+lon 49.6691329
+Mahalanobis 95.48</description>
+                <Point id="806">
+                    <coordinates>49.669132874620715,35.1772894113445,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="809">
+                <name>B_ctx300-102 D=95.2</name>
+                <description>lat 35.1717832
+lon 49.6685638
+Mahalanobis 95.22</description>
+                <Point id="808">
+                    <coordinates>49.668563779418825,35.17178317905233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="811">
+                <name>B_ctx300-103 D=93.8</name>
+                <description>lat 35.1731281
+lon 49.6678830
+Mahalanobis 93.80</description>
+                <Point id="810">
+                    <coordinates>49.66788299621487,35.17312814686114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="813">
+                <name>B_ctx300-104 D=93.1</name>
+                <description>lat 35.1715742
+lon 49.6741673
+Mahalanobis 93.08</description>
+                <Point id="812">
+                    <coordinates>49.67416733203154,35.17157415918689,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="815">
+                <name>B_ctx300-105 D=91.8</name>
+                <description>lat 35.1715860
+lon 49.6670297
+Mahalanobis 91.83</description>
+                <Point id="814">
+                    <coordinates>49.66702970071151,35.17158597779315,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="817">
+                <name>B_ctx300-106 D=90.9</name>
+                <description>lat 35.1718812
+lon 49.6610953
+Mahalanobis 90.92</description>
+                <Point id="816">
+                    <coordinates>49.661095300828094,35.171881173517725,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="819">
+                <name>B_ctx300-107 D=90.3</name>
+                <description>lat 35.1736968
+lon 49.6703993
+Mahalanobis 90.32</description>
+                <Point id="818">
+                    <coordinates>49.67039933963855,35.17369677948682,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

@@ -1,0 +1,3612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="821">
+        <name>Tappeh_Khosrow_pit_knock</name>
+        <Folder id="822">
+            <name>PIT_گودال (2739 px)</name>
+            <Placemark id="824">
+                <name>پیت (DEM)</name>
+                <Point id="823">
+                    <coordinates>[49.67939423],[35.18786072],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="826">
+                <name>پیت (DEM)</name>
+                <Point id="825">
+                    <coordinates>[49.66490534],[35.18734118],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="828">
+                <name>پیت (DEM)</name>
+                <Point id="827">
+                    <coordinates>[49.66512643],[35.18725346],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="830">
+                <name>پیت (DEM)</name>
+                <Point id="829">
+                    <coordinates>[49.67918337],[35.18731743],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="832">
+                <name>پیت (DEM)</name>
+                <Point id="831">
+                    <coordinates>[49.67918483],[35.18722729],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="834">
+                <name>پیت (DEM)</name>
+                <Point id="833">
+                    <coordinates>[49.67161099],[35.18696411],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="836">
+                <name>پیت (DEM)</name>
+                <Point id="835">
+                    <coordinates>[49.67161392],[35.18678382],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="838">
+                <name>پیت (DEM)</name>
+                <Point id="837">
+                    <coordinates>[49.67128743],[35.18659991],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="840">
+                <name>پیت (DEM)</name>
+                <Point id="839">
+                    <coordinates>[49.67150851],[35.18651217],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="842">
+                <name>پیت (DEM)</name>
+                <Point id="841">
+                    <coordinates>[49.67118203],[35.18632826],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="844">
+                <name>پیت (DEM)</name>
+                <Point id="843">
+                    <coordinates>[49.68583577],[35.18342261],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="846">
+                <name>پیت (DEM)</name>
+                <Point id="845">
+                    <coordinates>[49.68573032],[35.18315098],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="848">
+                <name>پیت (DEM)</name>
+                <Point id="847">
+                    <coordinates>[49.68584302],[35.18297187],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="850">
+                <name>پیت (DEM)</name>
+                <Point id="849">
+                    <coordinates>[49.67212208],[35.18255171],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="852">
+                <name>پیت (DEM)</name>
+                <Point id="851">
+                    <coordinates>[49.6781612],[35.18261778],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="854">
+                <name>پیت (DEM)</name>
+                <Point id="853">
+                    <coordinates>[49.67256276],[35.18246638],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="856">
+                <name>پیت (DEM)</name>
+                <Point id="855">
+                    <coordinates>[49.67245442],[35.18237502],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="858">
+                <name>پیت (DEM)</name>
+                <Point id="857">
+                    <coordinates>[49.67212648],[35.18228127],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="860">
+                <name>پیت (DEM)</name>
+                <Point id="859">
+                    <coordinates>[49.67234755],[35.18219353],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="862">
+                <name>پیت (DEM)</name>
+                <Point id="861">
+                    <coordinates>[49.6782783],[35.18216824],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="864">
+                <name>پیت (DEM)</name>
+                <Point id="863">
+                    <coordinates>[49.67653171],[35.18151802],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="866">
+                <name>پیت (DEM)</name>
+                <Point id="865">
+                    <coordinates>[49.67642337],[35.18142667],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="868">
+                <name>پیت (DEM)</name>
+                <Point id="867">
+                    <coordinates>[49.67576895],[35.18114903],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="870">
+                <name>پیت (DEM)</name>
+                <Point id="869">
+                    <coordinates>[49.65513108],[35.1806511],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="872">
+                <name>پیت (DEM)</name>
+                <Point id="871">
+                    <coordinates>[49.65469486],[35.18046593],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="874">
+                <name>پیت (DEM)</name>
+                <Point id="873">
+                    <coordinates>[49.65480614],[35.180377],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="876">
+                <name>پیت (DEM)</name>
+                <Point id="875">
+                    <coordinates>[49.65480911],[35.18019671],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="878">
+                <name>پیت (DEM)</name>
+                <Point id="877">
+                    <coordinates>[49.66986472],[35.17955154],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="880">
+                <name>پیت (DEM)</name>
+                <Point id="879">
+                    <coordinates>[49.67535608],[35.17952157],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="882">
+                <name>پیت (DEM)</name>
+                <Point id="881">
+                    <coordinates>[49.67557714],[35.17943382],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="884">
+                <name>پیت (DEM)</name>
+                <Point id="883">
+                    <coordinates>[49.67535901],[35.17934127],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="886">
+                <name>پیت (DEM)</name>
+                <Point id="885">
+                    <coordinates>[49.67536047],[35.17925112],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="888">
+                <name>پیت (DEM)</name>
+                <Point id="887">
+                    <coordinates>[49.66965394],[35.17900824],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="890">
+                <name>پیت (DEM)</name>
+                <Point id="889">
+                    <coordinates>[49.6697652],[35.1789193],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="892">
+                <name>پیت (DEM)</name>
+                <Point id="891">
+                    <coordinates>[49.66933042],[35.17864403],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="894">
+                <name>پیت (DEM)</name>
+                <Point id="893">
+                    <coordinates>[49.67383502],[35.17851312],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="896">
+                <name>پیت (DEM)</name>
+                <Point id="895">
+                    <coordinates>[49.65484476],[35.17803319],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="898">
+                <name>پیت (DEM)</name>
+                <Point id="897">
+                    <coordinates>[49.65484773],[35.17785289],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="900">
+                <name>پیت (DEM)</name>
+                <Point id="899">
+                    <coordinates>[49.6548507],[35.1776726],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="902">
+                <name>پیت (DEM)</name>
+                <Point id="901">
+                    <coordinates>[49.67012103],[35.17730027],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="904">
+                <name>پیت (DEM)</name>
+                <Point id="903">
+                    <coordinates>[49.6700127],[35.17720891],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="906">
+                <name>پیت (DEM)</name>
+                <Point id="905">
+                    <coordinates>[49.66990438],[35.17711756],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="908">
+                <name>پیت (DEM)</name>
+                <Point id="907">
+                    <coordinates>[49.67352906],[35.17706715],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="910">
+                <name>پیت (DEM)</name>
+                <Point id="909">
+                    <coordinates>[49.67385991],[35.17698061],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="912">
+                <name>پیت (DEM)</name>
+                <Point id="911">
+                    <coordinates>[49.67386284],[35.17680032],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="914">
+                <name>پیت (DEM)</name>
+                <Point id="913">
+                    <coordinates>[49.67397703],[35.17653108],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="916">
+                <name>پیت (DEM)</name>
+                <Point id="915">
+                    <coordinates>[49.67398288],[35.17617049],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="918">
+                <name>پیت (DEM)</name>
+                <Point id="917">
+                    <coordinates>[49.65268605],[35.17575511],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="920">
+                <name>پیت (DEM)</name>
+                <Point id="919">
+                    <coordinates>[49.66729285],[35.17564623],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="922">
+                <name>پیت (DEM)</name>
+                <Point id="921">
+                    <coordinates>[49.67289374],[35.17561757],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="924">
+                <name>پیت (DEM)</name>
+                <Point id="923">
+                    <coordinates>[49.66696789],[35.17537217],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="926">
+                <name>پیت (DEM)</name>
+                <Point id="925">
+                    <coordinates>[49.66718895],[35.17528444],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="928">
+                <name>پیت (DEM)</name>
+                <Point id="927">
+                    <coordinates>[49.67267855],[35.17534472],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="930">
+                <name>پیت (DEM)</name>
+                <Point id="929">
+                    <coordinates>[49.67235064],[35.17525097],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="932">
+                <name>پیت (DEM)</name>
+                <Point id="931">
+                    <coordinates>[49.66719189],[35.17510414],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="934">
+                <name>پیت (DEM)</name>
+                <Point id="933">
+                    <coordinates>[49.67290107],[35.17516684],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="936">
+                <name>پیت (DEM)</name>
+                <Point id="935">
+                    <coordinates>[49.67224378],[35.17506947],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="938">
+                <name>پیت (DEM)</name>
+                <Point id="937">
+                    <coordinates>[49.67213546],[35.17497812],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="940">
+                <name>پیت (DEM)</name>
+                <Point id="939">
+                    <coordinates>[49.66697672],[35.17483128],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="942">
+                <name>پیت (DEM)</name>
+                <Point id="941">
+                    <coordinates>[49.6668684],[35.17473993],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="944">
+                <name>پیت (DEM)</name>
+                <Point id="943">
+                    <coordinates>[49.66697966],[35.17465099],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="946">
+                <name>پیت (DEM)</name>
+                <Point id="945">
+                    <coordinates>[49.68136235],[35.17480844],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="948">
+                <name>پیت (DEM)</name>
+                <Point id="947">
+                    <coordinates>[49.68114423],[35.1747159],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="950">
+                <name>پیت (DEM)</name>
+                <Point id="949">
+                    <coordinates>[49.67181341],[35.17452377],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="952">
+                <name>پیت (DEM)</name>
+                <Point id="951">
+                    <coordinates>[49.67181488],[35.17443362],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="954">
+                <name>پیت (DEM)</name>
+                <Point id="953">
+                    <coordinates>[49.6719276],[35.17425453],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="956">
+                <name>پیت (DEM)</name>
+                <Point id="955">
+                    <coordinates>[49.66369626],[35.17398366],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="958">
+                <name>پیت (DEM)</name>
+                <Point id="957">
+                    <coordinates>[49.66369774],[35.17389351],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="960">
+                <name>پیت (DEM)</name>
+                <Point id="959">
+                    <coordinates>[49.66369921],[35.17380337],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="962">
+                <name>پیت (DEM)</name>
+                <Point id="961">
+                    <coordinates>[49.66853291],[35.17367627],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="964">
+                <name>پیت (DEM)</name>
+                <Point id="963">
+                    <coordinates>[49.68522395],[35.17367829],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="966">
+                <name>پیت (DEM)</name>
+                <Point id="965">
+                    <coordinates>[49.66842753],[35.17340463],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="968">
+                <name>پیت (DEM)</name>
+                <Point id="967">
+                    <coordinates>[49.65108236],[35.17312252],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="970">
+                <name>پیت (DEM)</name>
+                <Point id="969">
+                    <coordinates>[49.65097406],[35.17303115],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="972">
+                <name>پیت (DEM)</name>
+                <Point id="971">
+                    <coordinates>[49.65108534],[35.17294222],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="974">
+                <name>پیت (DEM)</name>
+                <Point id="973">
+                    <coordinates>[49.6541609],[35.17288628],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="976">
+                <name>پیت (DEM)</name>
+                <Point id="975">
+                    <coordinates>[49.65119811],[35.17276315],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="978">
+                <name>پیت (DEM)</name>
+                <Point id="977">
+                    <coordinates>[49.67129086],[35.17289509],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="980">
+                <name>پیت (DEM)</name>
+                <Point id="979">
+                    <coordinates>[49.65416535],[35.17261584],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="982">
+                <name>پیت (DEM)</name>
+                <Point id="981">
+                    <coordinates>[49.65405705],[35.17252447],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="984">
+                <name>پیت (DEM)</name>
+                <Point id="983">
+                    <coordinates>[49.68568052],[35.17260128],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="986">
+                <name>پیت (DEM)</name>
+                <Point id="985">
+                    <coordinates>[49.68579176],[35.17251233],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="988">
+                <name>پیت (DEM)</name>
+                <Point id="987">
+                    <coordinates>[49.65110023],[35.17204076],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="990">
+                <name>پیت (DEM)</name>
+                <Point id="989">
+                    <coordinates>[49.65077236],[35.17194694],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="992">
+                <name>پیت (DEM)</name>
+                <Point id="991">
+                    <coordinates>[49.66317831],[35.17208451],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="994">
+                <name>پیت (DEM)</name>
+                <Point id="993">
+                    <coordinates>[49.651213],[35.17186169],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="996">
+                <name>پیت (DEM)</name>
+                <Point id="995">
+                    <coordinates>[49.66987682],[35.1720681],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="998">
+                <name>پیت (DEM)</name>
+                <Point id="997">
+                    <coordinates>[49.67086491],[35.17207894],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1000">
+                <name>پیت (DEM)</name>
+                <Point id="999">
+                    <coordinates>[49.65088513],[35.17176787],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1002">
+                <name>پیت (DEM)</name>
+                <Point id="1001">
+                    <coordinates>[49.66296168],[35.17190179],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1004">
+                <name>پیت (DEM)</name>
+                <Point id="1003">
+                    <coordinates>[49.67086638],[35.1719888],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1006">
+                <name>پیت (DEM)</name>
+                <Point id="1005">
+                    <coordinates>[49.68579757],[35.17215173],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1008">
+                <name>پیت (DEM)</name>
+                <Point id="1007">
+                    <coordinates>[49.65319213],[35.17170338],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1010">
+                <name>پیت (DEM)</name>
+                <Point id="1009">
+                    <coordinates>[49.67075806],[35.17189744],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1012">
+                <name>پیت (DEM)</name>
+                <Point id="1011">
+                    <coordinates>[49.68590881],[35.17206278],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1014">
+                <name>پیت (DEM)</name>
+                <Point id="1013">
+                    <coordinates>[49.65341319],[35.17161568],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1016">
+                <name>پیت (DEM)</name>
+                <Point id="1015">
+                    <coordinates>[49.66779527],[35.17177473],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1018">
+                <name>پیت (DEM)</name>
+                <Point id="1017">
+                    <coordinates>[49.67075953],[35.1718073],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1020">
+                <name>پیت (DEM)</name>
+                <Point id="1019">
+                    <coordinates>[49.68591026],[35.17197263],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1022">
+                <name>پیت (DEM)</name>
+                <Point id="1021">
+                    <coordinates>[49.66768695],[35.17168337],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1024">
+                <name>پیت (DEM)</name>
+                <Point id="1023">
+                    <coordinates>[49.6860215],[35.17188367],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1026">
+                <name>پیت (DEM)</name>
+                <Point id="1025">
+                    <coordinates>[49.68602295],[35.17179352],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1028">
+                <name>پیت (DEM)</name>
+                <Point id="1027">
+                    <coordinates>[49.66944648],[35.17152239],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1030">
+                <name>پیت (DEM)</name>
+                <Point id="1029">
+                    <coordinates>[49.66747179],[35.17141052],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1032">
+                <name>پیت (DEM)</name>
+                <Point id="1031">
+                    <coordinates>[49.66341116],[35.17127561],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1034">
+                <name>پیت (DEM)</name>
+                <Point id="1033">
+                    <coordinates>[49.68580772],[35.1715207],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1036">
+                <name>پیت (DEM)</name>
+                <Point id="1035">
+                    <coordinates>[49.66967046],[35.17125436],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1038">
+                <name>پیت (DEM)</name>
+                <Point id="1037">
+                    <coordinates>[49.66374347],[35.17109895],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1040">
+                <name>پیت (DEM)</name>
+                <Point id="1039">
+                    <coordinates>[49.68570374],[35.17115891],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1042">
+                <name>پیت (DEM)</name>
+                <Point id="1041">
+                    <coordinates>[49.66967781],[35.17080362],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1044">
+                <name>پیت (DEM)</name>
+                <Point id="1043">
+                    <coordinates>[49.66978906],[35.17071468],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1046">
+                <name>پیت (DEM)</name>
+                <Point id="1045">
+                    <coordinates>[49.66957096],[35.17062212],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1048">
+                <name>پیت (DEM)</name>
+                <Point id="1047">
+                    <coordinates>[49.66078959],[35.17043518],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1050">
+                <name>پیت (DEM)</name>
+                <Point id="1049">
+                    <coordinates>[49.67297579],[35.17056931],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1052">
+                <name>پیت (DEM)</name>
+                <Point id="1051">
+                    <coordinates>[49.66112043],[35.17034867],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1054">
+                <name>پیت (DEM)</name>
+                <Point id="1053">
+                    <coordinates>[49.6695739],[35.17044182],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1056">
+                <name>پیت (DEM)</name>
+                <Point id="1055">
+                    <coordinates>[49.68593202],[35.17062041],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1058">
+                <name>پیت (DEM)</name>
+                <Point id="1057">
+                    <coordinates>[49.66342739],[35.17028399],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1060">
+                <name>پیت (DEM)</name>
+                <Point id="1059">
+                    <coordinates>[49.67275915],[35.17038661],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1062">
+                <name>پیت (DEM)</name>
+                <Point id="1061">
+                    <coordinates>[49.68593347],[35.17053026],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1064">
+                <name>پیت (DEM)</name>
+                <Point id="1063">
+                    <coordinates>[49.65761027],[35.17012949],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1066">
+                <name>پیت (DEM)</name>
+                <Point id="1065">
+                    <coordinates>[49.66935726],[35.17025912],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1068">
+                <name>پیت (DEM)</name>
+                <Point id="1067">
+                    <coordinates>[49.67319975],[35.17030127],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1070">
+                <name>پیت (DEM)</name>
+                <Point id="1069">
+                    <coordinates>[49.65750197],[35.17003813],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1072">
+                <name>پیت (DEM)</name>
+                <Point id="1071">
+                    <coordinates>[49.67298165],[35.17020872],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1074">
+                <name>پیت (DEM)</name>
+                <Point id="1073">
+                    <coordinates>[49.65728388],[35.16994555],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1076">
+                <name>پیت (DEM)</name>
+                <Point id="1075">
+                    <coordinates>[49.67254397],[35.17011376],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1078">
+                <name>پیت (DEM)</name>
+                <Point id="1077">
+                    <coordinates>[49.68604761],[35.17026101],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1080">
+                <name>پیت (DEM)</name>
+                <Point id="1079">
+                    <coordinates>[49.6669464],[35.16996212],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1082">
+                <name>پیت (DEM)</name>
+                <Point id="1081">
+                    <coordinates>[49.68582948],[35.17016848],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1084">
+                <name>پیت (DEM)</name>
+                <Point id="1083">
+                    <coordinates>[49.66716744],[35.16987439],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1086">
+                <name>پیت (DEM)</name>
+                <Point id="1085">
+                    <coordinates>[49.66661999],[35.1697782],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1088">
+                <name>پیت (DEM)</name>
+                <Point id="1087">
+                    <coordinates>[49.66925482],[35.16980717],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1090">
+                <name>پیت (DEM)</name>
+                <Point id="1089">
+                    <coordinates>[49.65685068],[35.16958009],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1092">
+                <name>پیت (DEM)</name>
+                <Point id="1091">
+                    <coordinates>[49.66728017],[35.1696953],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1094">
+                <name>پیت (DEM)</name>
+                <Point id="1093">
+                    <coordinates>[49.68605341],[35.16990041],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1096">
+                <name>پیت (DEM)</name>
+                <Point id="1095">
+                    <coordinates>[49.66343919],[35.16956281],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1098">
+                <name>پیت (DEM)</name>
+                <Point id="1097">
+                    <coordinates>[49.66914798],[35.16962567],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1100">
+                <name>پیت (DEM)</name>
+                <Point id="1099">
+                    <coordinates>[49.65707321],[35.16940223],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1102">
+                <name>پیت (DEM)</name>
+                <Point id="1101">
+                    <coordinates>[49.66717333],[35.1695138],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1104">
+                <name>پیت (DEM)</name>
+                <Point id="1103">
+                    <coordinates>[49.68594652],[35.16971893],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1106">
+                <name>پیت (DEM)</name>
+                <Point id="1105">
+                    <coordinates>[49.66706502],[35.16942244],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1108">
+                <name>پیت (DEM)</name>
+                <Point id="1107">
+                    <coordinates>[49.68594797],[35.16962878],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1110">
+                <name>پیت (DEM)</name>
+                <Point id="1109">
+                    <coordinates>[49.6669567],[35.16933108],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1112">
+                <name>پیت (DEM)</name>
+                <Point id="1111">
+                    <coordinates>[49.68594942],[35.16953863],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1114">
+                <name>پیت (DEM)</name>
+                <Point id="1113">
+                    <coordinates>[49.66706796],[35.16924215],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1116">
+                <name>پیت (DEM)</name>
+                <Point id="1115">
+                    <coordinates>[49.66344657],[35.16911207],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1118">
+                <name>پیت (DEM)</name>
+                <Point id="1117">
+                    <coordinates>[49.66344805],[35.16902193],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1120">
+                <name>پیت (DEM)</name>
+                <Point id="1119">
+                    <coordinates>[49.68584544],[35.16917685],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1122">
+                <name>پیت (DEM)</name>
+                <Point id="1121">
+                    <coordinates>[49.68606646],[35.16908908],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1124">
+                <name>پیت (DEM)</name>
+                <Point id="1123">
+                    <coordinates>[49.66334416],[35.16866013],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1126">
+                <name>پیت (DEM)</name>
+                <Point id="1125">
+                    <coordinates>[49.66104168],[35.16845437],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1128">
+                <name>پیت (DEM)</name>
+                <Point id="1127">
+                    <coordinates>[49.68607226],[35.16872849],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1130">
+                <name>پیت (DEM)</name>
+                <Point id="1129">
+                    <coordinates>[49.68574581],[35.16854462],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1132">
+                <name>پیت (DEM)</name>
+                <Point id="1131">
+                    <coordinates>[49.66170481],[35.16819121],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1134">
+                <name>پیت (DEM)</name>
+                <Point id="1133">
+                    <coordinates>[49.68607951],[35.16827775],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1136">
+                <name>پیت (DEM)</name>
+                <Point id="1135">
+                    <coordinates>[49.68608241],[35.16809745],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1138">
+                <name>پیت (DEM)</name>
+                <Point id="1137">
+                    <coordinates>[49.68575742],[35.16782343],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1140">
+                <name>پیت (DEM)</name>
+                <Point id="1139">
+                    <coordinates>[49.68575887],[35.16773329],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1142">
+                <name>پیت (DEM)</name>
+                <Point id="1141">
+                    <coordinates>[49.67302559],[35.16750429],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1144">
+                <name>پیت (DEM)</name>
+                <Point id="1143">
+                    <coordinates>[49.67269771],[35.16741053],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1146">
+                <name>پیت (DEM)</name>
+                <Point id="1145">
+                    <coordinates>[49.68598423],[35.16737508],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1148">
+                <name>پیت (DEM)</name>
+                <Point id="1147">
+                    <coordinates>[49.68609982],[35.16701567],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1150">
+                <name>پیت (DEM)</name>
+                <Point id="1149">
+                    <coordinates>[49.68599729],[35.16656374],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1152">
+                <name>پیت (DEM)</name>
+                <Point id="1151">
+                    <coordinates>[49.68611287],[35.16620434],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1154">
+                <name>پیت (DEM)</name>
+                <Point id="1153">
+                    <coordinates>[49.65109617],[35.16563911],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1156">
+                <name>پیت (DEM)</name>
+                <Point id="1155">
+                    <coordinates>[49.65109766],[35.16554896],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1158">
+                <name>پیت (DEM)</name>
+                <Point id="1157">
+                    <coordinates>[49.65098937],[35.16545759],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1160">
+                <name>پیت (DEM)</name>
+                <Point id="1159">
+                    <coordinates>[49.68601179],[35.16566226],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1162">
+                <name>پیت (DEM)</name>
+                <Point id="1161">
+                    <coordinates>[49.68590636],[35.16539063],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1164">
+                <name>پیت (DEM)</name>
+                <Point id="1163">
+                    <coordinates>[49.68612882],[35.16521271],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1166">
+                <name>پیت (DEM)</name>
+                <Point id="1165">
+                    <coordinates>[49.68613317],[35.16494227],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1168">
+                <name>پیت (DEM)</name>
+                <Point id="1167">
+                    <coordinates>[49.68603209],[35.16440019],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1170">
+                <name>پیت (DEM)</name>
+                <Point id="1169">
+                    <coordinates>[49.64915147],[35.163724],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1172">
+                <name>پیت (DEM)</name>
+                <Point id="1171">
+                    <coordinates>[49.64926273],[35.16363508],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1174">
+                <name>پیت (DEM)</name>
+                <Point id="1173">
+                    <coordinates>[49.66649904],[35.1637359],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1176">
+                <name>پیت (DEM)</name>
+                <Point id="1175">
+                    <coordinates>[49.64926572],[35.16345479],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1178">
+                <name>پیت (DEM)</name>
+                <Point id="1177">
+                    <coordinates>[49.68615057],[35.16386049],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1180">
+                <name>پیت (DEM)</name>
+                <Point id="1179">
+                    <coordinates>[49.68604225],[35.16376915],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1182">
+                <name>پیت (DEM)</name>
+                <Point id="1181">
+                    <coordinates>[49.6860437],[35.163679],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1184">
+                <name>پیت (DEM)</name>
+                <Point id="1183">
+                    <coordinates>[49.66661618],[35.16328637],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1186">
+                <name>پیت (DEM)</name>
+                <Point id="1185">
+                    <coordinates>[49.68561764],[35.1628629],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1188">
+                <name>پیت (DEM)</name>
+                <Point id="1187">
+                    <coordinates>[49.68583864],[35.16277514],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1190">
+                <name>پیت (DEM)</name>
+                <Point id="1189">
+                    <coordinates>[49.66564292],[35.16237402],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1192">
+                <name>پیت (DEM)</name>
+                <Point id="1191">
+                    <coordinates>[49.68584154],[35.16259484],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1194">
+                <name>پیت (DEM)</name>
+                <Point id="1193">
+                    <coordinates>[49.68529412],[35.16249874],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1196">
+                <name>پیت (DEM)</name>
+                <Point id="1195">
+                    <coordinates>[49.66586541],[35.16219614],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1198">
+                <name>پیت (DEM)</name>
+                <Point id="1197">
+                    <coordinates>[49.68595422],[35.16241574],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1200">
+                <name>پیت (DEM)</name>
+                <Point id="1199">
+                    <coordinates>[49.66191502],[35.1620624],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1202">
+                <name>پیت (DEM)</name>
+                <Point id="1201">
+                    <coordinates>[49.66290298],[35.16207331],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1204">
+                <name>پیت (DEM)</name>
+                <Point id="1203">
+                    <coordinates>[49.68518724],[35.16231725],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1206">
+                <name>پیت (DEM)</name>
+                <Point id="1205">
+                    <coordinates>[49.66564881],[35.16201343],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1208">
+                <name>پیت (DEM)</name>
+                <Point id="1207">
+                    <coordinates>[49.66554051],[35.16192207],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1210">
+                <name>پیت (DEM)</name>
+                <Point id="1209">
+                    <coordinates>[49.66060217],[35.1617774],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1212">
+                <name>پیت (DEM)</name>
+                <Point id="1211">
+                    <coordinates>[49.66159013],[35.16178832],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1214">
+                <name>پیت (DEM)</name>
+                <Point id="1213">
+                    <coordinates>[49.66257809],[35.16179923],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1216">
+                <name>پیت (DEM)</name>
+                <Point id="1215">
+                    <coordinates>[49.6851916],[35.1620468],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1218">
+                <name>پیت (DEM)</name>
+                <Point id="1217">
+                    <coordinates>[49.66115251],[35.16169332],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1220">
+                <name>پیت (DEM)</name>
+                <Point id="1219">
+                    <coordinates>[49.66477651],[35.16164316],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1222">
+                <name>پیت (DEM)</name>
+                <Point id="1221">
+                    <coordinates>[49.66093592],[35.1615106],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1224">
+                <name>پیت (DEM)</name>
+                <Point id="1223">
+                    <coordinates>[49.66071785],[35.16141803],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1226">
+                <name>پیت (DEM)</name>
+                <Point id="1225">
+                    <coordinates>[49.66039592],[35.16096365],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1228">
+                <name>پیت (DEM)</name>
+                <Point id="1227">
+                    <coordinates>[49.68509488],[35.16123428],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1230">
+                <name>پیت (DEM)</name>
+                <Point id="1229">
+                    <coordinates>[49.66006808],[35.16086986],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1232">
+                <name>پیت (DEM)</name>
+                <Point id="1231">
+                    <coordinates>[49.68531588],[35.16114651],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1234">
+                <name>پیت (DEM)</name>
+                <Point id="1233">
+                    <coordinates>[49.68487824],[35.1610516],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1236">
+                <name>پیت (DEM)</name>
+                <Point id="1235">
+                    <coordinates>[49.66007104],[35.16068956],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1238">
+                <name>پیت (DEM)</name>
+                <Point id="1237">
+                    <coordinates>[49.68509923],[35.16096383],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1240">
+                <name>پیت (DEM)</name>
+                <Point id="1239">
+                    <coordinates>[49.65996275],[35.1605982],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1242">
+                <name>پیت (DEM)</name>
+                <Point id="1241">
+                    <coordinates>[49.68521046],[35.16087488],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1244">
+                <name>پیت (DEM)</name>
+                <Point id="1243">
+                    <coordinates>[49.6844435],[35.16077639],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1246">
+                <name>پیت (DEM)</name>
+                <Point id="1245">
+                    <coordinates>[49.68543146],[35.16078711],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1248">
+                <name>پیت (DEM)</name>
+                <Point id="1247">
+                    <coordinates>[49.68488404],[35.16069101],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1250">
+                <name>پیت (DEM)</name>
+                <Point id="1249">
+                    <coordinates>[49.6844464],[35.16059609],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1252">
+                <name>پیت (DEM)</name>
+                <Point id="1251">
+                    <coordinates>[49.68433808],[35.16050475],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1254">
+                <name>پیت (DEM)</name>
+                <Point id="1253">
+                    <coordinates>[49.68565535],[35.16051905],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1256">
+                <name>پیت (DEM)</name>
+                <Point id="1255">
+                    <coordinates>[49.6856568],[35.1604289],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1258">
+                <name>پیت (DEM)</name>
+                <Point id="1257">
+                    <coordinates>[49.68478152],[35.16023907],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1260">
+                <name>پیت (DEM)</name>
+                <Point id="1259">
+                    <coordinates>[49.65338833],[35.15980398],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1262">
+                <name>پیت (DEM)</name>
+                <Point id="1261">
+                    <coordinates>[49.65317028],[35.1597114],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1264">
+                <name>پیت (DEM)</name>
+                <Point id="1263">
+                    <coordinates>[49.68467465],[35.16005759],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1266">
+                <name>پیت (DEM)</name>
+                <Point id="1265">
+                    <coordinates>[49.65964822],[35.15969309],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1268">
+                <name>پیت (DEM)</name>
+                <Point id="1267">
+                    <coordinates>[49.68511519],[35.1599722],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1270">
+                <name>پیت (DEM)</name>
+                <Point id="1269">
+                    <coordinates>[49.6529552],[35.15943851],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1272">
+                <name>پیت (DEM)</name>
+                <Point id="1271">
+                    <coordinates>[49.68467901],[35.15978714],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1274">
+                <name>پیت (DEM)</name>
+                <Point id="1273">
+                    <coordinates>[49.65998197],[35.15942629],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1276">
+                <name>پیت (DEM)</name>
+                <Point id="1275">
+                    <coordinates>[49.68468191],[35.15960684],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1278">
+                <name>پیت (DEM)</name>
+                <Point id="1277">
+                    <coordinates>[49.68512245],[35.15952146],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1280">
+                <name>پیت (DEM)</name>
+                <Point id="1279">
+                    <coordinates>[49.6851239],[35.15943131],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1282">
+                <name>پیت (DEM)</name>
+                <Point id="1281">
+                    <coordinates>[49.6587819],[35.15896219],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1284">
+                <name>پیت (DEM)</name>
+                <Point id="1283">
+                    <coordinates>[49.68490726],[35.15924863],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1286">
+                <name>پیت (DEM)</name>
+                <Point id="1285">
+                    <coordinates>[49.6845794],[35.15915491],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1288">
+                <name>پیت (DEM)</name>
+                <Point id="1287">
+                    <coordinates>[49.68425154],[35.15906119],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1290">
+                <name>پیت (DEM)</name>
+                <Point id="1289">
+                    <coordinates>[49.6585668],[35.15868931],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1292">
+                <name>پیت (DEM)</name>
+                <Point id="1291">
+                    <coordinates>[49.68447253],[35.15897342],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1294">
+                <name>پیت (DEM)</name>
+                <Point id="1293">
+                    <coordinates>[49.65867805],[35.15860038],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1296">
+                <name>پیت (DEM)</name>
+                <Point id="1295">
+                    <coordinates>[49.68458375],[35.15888447],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1298">
+                <name>پیت (DEM)</name>
+                <Point id="1297">
+                    <coordinates>[49.65867953],[35.15851024],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1300">
+                <name>پیت (DEM)</name>
+                <Point id="1299">
+                    <coordinates>[49.6845852],[35.15879432],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1302">
+                <name>پیت (DEM)</name>
+                <Point id="1301">
+                    <coordinates>[49.65879078],[35.1584213],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1304">
+                <name>پیت (DEM)</name>
+                <Point id="1303">
+                    <coordinates>[49.65857272],[35.15832873],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1306">
+                <name>پیت (DEM)</name>
+                <Point id="1305">
+                    <coordinates>[49.6853565],[35.15862236],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1308">
+                <name>پیت (DEM)</name>
+                <Point id="1307">
+                    <coordinates>[49.68458956],[35.15852387],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1310">
+                <name>پیت (DEM)</name>
+                <Point id="1309">
+                    <coordinates>[49.65286773],[35.15808509],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1312">
+                <name>پیت (DEM)</name>
+                <Point id="1311">
+                    <coordinates>[49.68459246],[35.15834358],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1314">
+                <name>پیت (DEM)</name>
+                <Point id="1313">
+                    <coordinates>[49.68492322],[35.158257],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1316">
+                <name>پیت (DEM)</name>
+                <Point id="1315">
+                    <coordinates>[49.68492467],[35.15816686],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1318">
+                <name>پیت (DEM)</name>
+                <Point id="1317">
+                    <coordinates>[49.68503589],[35.1580779],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1320">
+                <name>پیت (DEM)</name>
+                <Point id="1319">
+                    <coordinates>[49.68503734],[35.15798775],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1322">
+                <name>پیت (DEM)</name>
+                <Point id="1321">
+                    <coordinates>[49.65968224],[35.1576197],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1324">
+                <name>پیت (DEM)</name>
+                <Point id="1323">
+                    <coordinates>[49.68481926],[35.15789522],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1326">
+                <name>پیت (DEM)</name>
+                <Point id="1325">
+                    <coordinates>[49.65276836],[35.15745284],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1328">
+                <name>پیت (DEM)</name>
+                <Point id="1327">
+                    <coordinates>[49.68460117],[35.15780269],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1330">
+                <name>پیت (DEM)</name>
+                <Point id="1329">
+                    <coordinates>[49.65255031],[35.15736025],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1332">
+                <name>پیت (DEM)</name>
+                <Point id="1331">
+                    <coordinates>[49.68163886],[35.15768032],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1334">
+                <name>پیت (DEM)</name>
+                <Point id="1333">
+                    <coordinates>[49.65244203],[35.15726888],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1336">
+                <name>پیت (DEM)</name>
+                <Point id="1335">
+                    <coordinates>[49.68438453],[35.15762001],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1338">
+                <name>پیت (DEM)</name>
+                <Point id="1337">
+                    <coordinates>[49.64618681],[35.15710897],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1340">
+                <name>پیت (DEM)</name>
+                <Point id="1339">
+                    <coordinates>[49.68460552],[35.15753224],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1342">
+                <name>پیت (DEM)</name>
+                <Point id="1341">
+                    <coordinates>[49.65255477],[35.15708981],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1344">
+                <name>پیت (DEM)</name>
+                <Point id="1343">
+                    <coordinates>[49.68493628],[35.15744567],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1346">
+                <name>پیت (DEM)</name>
+                <Point id="1345">
+                    <coordinates>[49.65991065],[35.15708124],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1348">
+                <name>پیت (DEM)</name>
+                <Point id="1347">
+                    <coordinates>[49.68493773],[35.15735552],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1350">
+                <name>پیت (DEM)</name>
+                <Point id="1349">
+                    <coordinates>[49.65255775],[35.15690951],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1352">
+                <name>پیت (DEM)</name>
+                <Point id="1351">
+                    <coordinates>[49.68471965],[35.15726299],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1354">
+                <name>پیت (DEM)</name>
+                <Point id="1353">
+                    <coordinates>[49.6599136],[35.15690095],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1356">
+                <name>پیت (DEM)</name>
+                <Point id="1355">
+                    <coordinates>[49.68483087],[35.15717403],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1358">
+                <name>پیت (DEM)</name>
+                <Point id="1357">
+                    <coordinates>[49.66024438],[35.15681444],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1360">
+                <name>پیت (DEM)</name>
+                <Point id="1359">
+                    <coordinates>[49.68538116],[35.15708984],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1362">
+                <name>پیت (DEM)</name>
+                <Point id="1361">
+                    <coordinates>[49.66024586],[35.1567243],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1364">
+                <name>پیت (DEM)</name>
+                <Point id="1363">
+                    <coordinates>[49.68527284],[35.1569985],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1366">
+                <name>پیت (DEM)</name>
+                <Point id="1365">
+                    <coordinates>[49.68461568],[35.15690121],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1368">
+                <name>پیت (DEM)</name>
+                <Point id="1367">
+                    <coordinates>[49.65212612],[35.15645389],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1370">
+                <name>پیت (DEM)</name>
+                <Point id="1369">
+                    <coordinates>[49.6847269],[35.15681225],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1372">
+                <name>پیت (DEM)</name>
+                <Point id="1371">
+                    <coordinates>[49.6521276],[35.15636375],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1374">
+                <name>پیت (DEM)</name>
+                <Point id="1373">
+                    <coordinates>[49.66036006],[35.15645507],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1376">
+                <name>پیت (DEM)</name>
+                <Point id="1375">
+                    <coordinates>[49.68538696],[35.15672925],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1378">
+                <name>پیت (DEM)</name>
+                <Point id="1377">
+                    <coordinates>[49.65959318],[35.15635642],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1380">
+                <name>پیت (DEM)</name>
+                <Point id="1379">
+                    <coordinates>[49.6847298],[35.15663195],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1382">
+                <name>پیت (DEM)</name>
+                <Point id="1381">
+                    <coordinates>[49.64620325],[35.15611736],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1384">
+                <name>پیت (DEM)</name>
+                <Point id="1383">
+                    <coordinates>[49.65256964],[35.15618834],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1386">
+                <name>پیت (DEM)</name>
+                <Point id="1385">
+                    <coordinates>[49.68462149],[35.15654061],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1388">
+                <name>پیت (DEM)</name>
+                <Point id="1387">
+                    <coordinates>[49.64620474],[35.15602721],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1390">
+                <name>پیت (DEM)</name>
+                <Point id="1389">
+                    <coordinates>[49.65959614],[35.15617613],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1392">
+                <name>پیت (DEM)</name>
+                <Point id="1391">
+                    <coordinates>[49.68473271],[35.15645166],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1394">
+                <name>پیت (DEM)</name>
+                <Point id="1393">
+                    <coordinates>[49.64620623],[35.15593706],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1396">
+                <name>پیت (DEM)</name>
+                <Point id="1395">
+                    <coordinates>[49.65981715],[35.15608841],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1398">
+                <name>پیت (DEM)</name>
+                <Point id="1397">
+                    <coordinates>[49.68495369],[35.15636389],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1400">
+                <name>پیت (DEM)</name>
+                <Point id="1399">
+                    <coordinates>[49.65191551],[35.15591057],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1402">
+                <name>پیت (DEM)</name>
+                <Point id="1401">
+                    <coordinates>[49.65992839],[35.15599947],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1404">
+                <name>پیت (DEM)</name>
+                <Point id="1403">
+                    <coordinates>[49.68506491],[35.15627493],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1406">
+                <name>پیت (DEM)</name>
+                <Point id="1405">
+                    <coordinates>[49.65224629],[35.15582409],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1408">
+                <name>پیت (DEM)</name>
+                <Point id="1407">
+                    <coordinates>[49.68473706],[35.15618121],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1410">
+                <name>پیت (DEM)</name>
+                <Point id="1409">
+                    <coordinates>[49.65180872],[35.15572905],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1412">
+                <name>پیت (DEM)</name>
+                <Point id="1411">
+                    <coordinates>[49.68451898],[35.15608868],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1414">
+                <name>پیت (DEM)</name>
+                <Point id="1413">
+                    <coordinates>[49.68561665],[35.15610059],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1416">
+                <name>پیت (DEM)</name>
+                <Point id="1415">
+                    <coordinates>[49.68484973],[35.15600211],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1418">
+                <name>پیت (DEM)</name>
+                <Point id="1417">
+                    <coordinates>[49.65905618],[35.15562917],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1420">
+                <name>پیت (DEM)</name>
+                <Point id="1419">
+                    <coordinates>[49.65214248],[35.15546228],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1422">
+                <name>پیت (DEM)</name>
+                <Point id="1421">
+                    <coordinates>[49.68540147],[35.15582777],0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="1423">
+            <name>KNOCK_تپه (2679 px)</name>
+            <Placemark id="1425">
+                <name>کونوک (DEM)</name>
+                <Point id="1424">
+                    <coordinates>[49.66599016],[35.18816461],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1427">
+                <name>کونوک (DEM)</name>
+                <Point id="1426">
+                    <coordinates>[49.67159044],[35.18822617],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1429">
+                <name>کونوک (DEM)</name>
+                <Point id="1428">
+                    <coordinates>[49.66632106],[35.18807809],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1431">
+                <name>کونوک (DEM)</name>
+                <Point id="1430">
+                    <coordinates>[49.66610292],[35.18798552],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1433">
+                <name>کونوک (DEM)</name>
+                <Point id="1432">
+                    <coordinates>[49.67170319],[35.18804708],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1435">
+                <name>کونوک (DEM)</name>
+                <Point id="1434">
+                    <coordinates>[49.67148504],[35.18795453],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1437">
+                <name>کونوک (DEM)</name>
+                <Point id="1436">
+                    <coordinates>[49.68071049],[35.18796523],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1439">
+                <name>کونوک (DEM)</name>
+                <Point id="1438">
+                    <coordinates>[49.66621715],[35.18771629],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1441">
+                <name>کونوک (DEM)</name>
+                <Point id="1440">
+                    <coordinates>[49.68082321],[35.18778613],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1443">
+                <name>کونوک (DEM)</name>
+                <Point id="1442">
+                    <coordinates>[49.6811541],[35.18769957],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1445">
+                <name>کونوک (DEM)</name>
+                <Point id="1444">
+                    <coordinates>[49.68005892],[35.18750731],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1447">
+                <name>کونوک (DEM)</name>
+                <Point id="1446">
+                    <coordinates>[49.68017019],[35.18741836],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1449">
+                <name>کونوک (DEM)</name>
+                <Point id="1448">
+                    <coordinates>[49.67995203],[35.18732582],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1451">
+                <name>کونوک (DEM)</name>
+                <Point id="1450">
+                    <coordinates>[49.68039272],[35.18724046],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1453">
+                <name>کونوک (DEM)</name>
+                <Point id="1452">
+                    <coordinates>[49.68061379],[35.1871527],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1455">
+                <name>کونوک (DEM)</name>
+                <Point id="1454">
+                    <coordinates>[49.67261245],[35.18616362],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1457">
+                <name>کونوک (DEM)</name>
+                <Point id="1456">
+                    <coordinates>[49.67228596],[35.18597972],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1459">
+                <name>کونوک (DEM)</name>
+                <Point id="1458">
+                    <coordinates>[49.67239724],[35.18589077],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1461">
+                <name>کونوک (DEM)</name>
+                <Point id="1460">
+                    <coordinates>[49.67229036],[35.18570927],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1463">
+                <name>کونوک (DEM)</name>
+                <Point id="1462">
+                    <coordinates>[49.67308832],[35.18391475],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1465">
+                <name>کونوک (DEM)</name>
+                <Point id="1464">
+                    <coordinates>[49.6734192],[35.18382821],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1467">
+                <name>کونوک (DEM)</name>
+                <Point id="1466">
+                    <coordinates>[49.67298438],[35.18355296],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1469">
+                <name>کونوک (DEM)</name>
+                <Point id="1468">
+                    <coordinates>[49.6708074],[35.18235696],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1471">
+                <name>کونوک (DEM)</name>
+                <Point id="1470">
+                    <coordinates>[49.67015299],[35.18207928],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1473">
+                <name>کونوک (DEM)</name>
+                <Point id="1472">
+                    <coordinates>[49.67015446],[35.18198914],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1475">
+                <name>کونوک (DEM)</name>
+                <Point id="1474">
+                    <coordinates>[49.67092454],[35.18190743],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1477">
+                <name>کونوک (DEM)</name>
+                <Point id="1476">
+                    <coordinates>[49.68454137],[35.18196594],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1479">
+                <name>کونوک (DEM)</name>
+                <Point id="1478">
+                    <coordinates>[49.68454282],[35.18187579],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1481">
+                <name>کونوک (DEM)</name>
+                <Point id="1480">
+                    <coordinates>[49.68443447],[35.18178445],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1483">
+                <name>کونوک (DEM)</name>
+                <Point id="1482">
+                    <coordinates>[49.66544039],[35.18148646],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1485">
+                <name>کونوک (DEM)</name>
+                <Point id="1484">
+                    <coordinates>[49.68410652],[35.18169073],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1487">
+                <name>کونوک (DEM)</name>
+                <Point id="1486">
+                    <coordinates>[49.66511246],[35.18139268],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1489">
+                <name>کونوک (DEM)</name>
+                <Point id="1488">
+                    <coordinates>[49.68421778],[35.18160177],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1491">
+                <name>کونوک (DEM)</name>
+                <Point id="1490">
+                    <coordinates>[49.66511394],[35.18130253],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1493">
+                <name>کونوک (DEM)</name>
+                <Point id="1492">
+                    <coordinates>[49.66522668],[35.18112345],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1495">
+                <name>کونوک (DEM)</name>
+                <Point id="1494">
+                    <coordinates>[49.6556252],[35.17732055],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1497">
+                <name>کونوک (DEM)</name>
+                <Point id="1496">
+                    <coordinates>[49.67220566],[35.1774133],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1499">
+                <name>کونوک (DEM)</name>
+                <Point id="1498">
+                    <coordinates>[49.65519048],[35.17704523],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1501">
+                <name>کونوک (DEM)</name>
+                <Point id="1500">
+                    <coordinates>[49.66232857],[35.17703412],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1503">
+                <name>کونوک (DEM)</name>
+                <Point id="1502">
+                    <coordinates>[49.66167128],[35.17693669],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1505">
+                <name>کونوک (DEM)</name>
+                <Point id="1504">
+                    <coordinates>[49.66156296],[35.17684533],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1507">
+                <name>کونوک (DEM)</name>
+                <Point id="1506">
+                    <coordinates>[49.67188361],[35.17695895],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1509">
+                <name>کونوک (DEM)</name>
+                <Point id="1508">
+                    <coordinates>[49.68430059],[35.17646334],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1511">
+                <name>کونوک (DEM)</name>
+                <Point id="1510">
+                    <coordinates>[49.68397557],[35.17618932],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1513">
+                <name>کونوک (DEM)</name>
+                <Point id="1512">
+                    <coordinates>[49.6843064],[35.17610275],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1515">
+                <name>کونوک (DEM)</name>
+                <Point id="1514">
+                    <coordinates>[49.68441765],[35.17601379],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1517">
+                <name>کونوک (DEM)</name>
+                <Point id="1516">
+                    <coordinates>[49.67618752],[35.17565362],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1519">
+                <name>کونوک (DEM)</name>
+                <Point id="1518">
+                    <coordinates>[49.67070082],[35.1754132],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1521">
+                <name>کونوک (DEM)</name>
+                <Point id="1520">
+                    <coordinates>[49.67608065],[35.17547213],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1523">
+                <name>کونوک (DEM)</name>
+                <Point id="1522">
+                    <coordinates>[49.67575274],[35.17537838],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1525">
+                <name>کونوک (DEM)</name>
+                <Point id="1524">
+                    <coordinates>[49.67103314],[35.17523652],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1527">
+                <name>کونوک (DEM)</name>
+                <Point id="1526">
+                    <coordinates>[49.67619337],[35.17529303],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1529">
+                <name>کونوک (DEM)</name>
+                <Point id="1528">
+                    <coordinates>[49.6711444],[35.17514757],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1531">
+                <name>کونوک (DEM)</name>
+                <Point id="1530">
+                    <coordinates>[49.67619483],[35.17520288],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1533">
+                <name>کونوک (DEM)</name>
+                <Point id="1532">
+                    <coordinates>[49.67092628],[35.17505502],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1535">
+                <name>کونوک (DEM)</name>
+                <Point id="1534">
+                    <coordinates>[49.67103754],[35.17496607],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1537">
+                <name>کونوک (DEM)</name>
+                <Point id="1536">
+                    <coordinates>[49.6711488],[35.17487713],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1539">
+                <name>کونوک (DEM)</name>
+                <Point id="1538">
+                    <coordinates>[49.67049298],[35.17468961],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1541">
+                <name>کونوک (DEM)</name>
+                <Point id="1540">
+                    <coordinates>[49.67060424],[35.17460066],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1543">
+                <name>کونوک (DEM)</name>
+                <Point id="1542">
+                    <coordinates>[49.66963081],[35.17368834],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1545">
+                <name>کونوک (DEM)</name>
+                <Point id="1544">
+                    <coordinates>[49.66974354],[35.17350925],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1547">
+                <name>کونوک (DEM)</name>
+                <Point id="1546">
+                    <coordinates>[49.66952543],[35.17341669],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1549">
+                <name>کونوک (DEM)</name>
+                <Point id="1548">
+                    <coordinates>[49.66206271],[35.17315415],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1551">
+                <name>کونوک (DEM)</name>
+                <Point id="1550">
+                    <coordinates>[49.66985773],[35.17324001],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1553">
+                <name>کونوک (DEM)</name>
+                <Point id="1552">
+                    <coordinates>[49.66184608],[35.17297143],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1555">
+                <name>کونوک (DEM)</name>
+                <Point id="1554">
+                    <coordinates>[49.66184756],[35.17288129],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1557">
+                <name>کونوک (DEM)</name>
+                <Point id="1556">
+                    <coordinates>[49.6692034],[35.17296234],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1559">
+                <name>کونوک (DEM)</name>
+                <Point id="1558">
+                    <coordinates>[49.66228819],[35.17279599],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1561">
+                <name>کونوک (DEM)</name>
+                <Point id="1560">
+                    <coordinates>[49.66217988],[35.17270463],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1563">
+                <name>کونوک (DEM)</name>
+                <Point id="1562">
+                    <coordinates>[49.66229115],[35.1726157],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1565">
+                <name>کونوک (DEM)</name>
+                <Point id="1564">
+                    <coordinates>[49.66953718],[35.17269551],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1567">
+                <name>کونوک (DEM)</name>
+                <Point id="1566">
+                    <coordinates>[49.66920928],[35.17260175],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1569">
+                <name>کونوک (DEM)</name>
+                <Point id="1568">
+                    <coordinates>[49.66888139],[35.17250798],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1571">
+                <name>کونوک (DEM)</name>
+                <Point id="1570">
+                    <coordinates>[49.66899264],[35.17241904],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1573">
+                <name>کونوک (DEM)</name>
+                <Point id="1572">
+                    <coordinates>[49.66855643],[35.17223392],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1575">
+                <name>کونوک (DEM)</name>
+                <Point id="1574">
+                    <coordinates>[49.66888726],[35.17214739],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1577">
+                <name>کونوک (DEM)</name>
+                <Point id="1576">
+                    <coordinates>[49.66899852],[35.17205845],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1579">
+                <name>کونوک (DEM)</name>
+                <Point id="1578">
+                    <coordinates>[49.65209427],[35.17169117],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1581">
+                <name>کونوک (DEM)</name>
+                <Point id="1580">
+                    <coordinates>[49.65209576],[35.17160102],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1583">
+                <name>کونوک (DEM)</name>
+                <Point id="1582">
+                    <coordinates>[49.65209724],[35.17151088],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1585">
+                <name>کونوک (DEM)</name>
+                <Point id="1584">
+                    <coordinates>[49.65198895],[35.17141951],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1587">
+                <name>کونوک (DEM)</name>
+                <Point id="1586">
+                    <coordinates>[49.68536422],[35.17178638],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1589">
+                <name>کونوک (DEM)</name>
+                <Point id="1588">
+                    <coordinates>[49.66823883],[35.17150912],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1591">
+                <name>کونوک (DEM)</name>
+                <Point id="1590">
+                    <coordinates>[49.66856966],[35.17142259],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1593">
+                <name>کونوک (DEM)</name>
+                <Point id="1592">
+                    <coordinates>[49.67504709],[35.17149362],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1595">
+                <name>کونوک (DEM)</name>
+                <Point id="1594">
+                    <coordinates>[49.66505796],[35.17129377],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1597">
+                <name>کونوک (DEM)</name>
+                <Point id="1596">
+                    <coordinates>[49.67460941],[35.17139867],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1599">
+                <name>کونوک (DEM)</name>
+                <Point id="1598">
+                    <coordinates>[49.66473007],[35.17119999],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1601">
+                <name>کونوک (DEM)</name>
+                <Point id="1600">
+                    <coordinates>[49.66868239],[35.1712435],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1603">
+                <name>کونوک (DEM)</name>
+                <Point id="1602">
+                    <coordinates>[49.66451197],[35.17110742],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1605">
+                <name>کونوک (DEM)</name>
+                <Point id="1604">
+                    <coordinates>[49.66846428],[35.17115094],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1607">
+                <name>کونوک (DEM)</name>
+                <Point id="1606">
+                    <coordinates>[49.67219703],[35.17119192],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1609">
+                <name>کونوک (DEM)</name>
+                <Point id="1608">
+                    <coordinates>[49.67472212],[35.17121958],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1611">
+                <name>کونوک (DEM)</name>
+                <Point id="1610">
+                    <coordinates>[49.66462323],[35.17101849],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1613">
+                <name>کونوک (DEM)</name>
+                <Point id="1612">
+                    <coordinates>[49.66857554],[35.171062],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1615">
+                <name>کونوک (DEM)</name>
+                <Point id="1614">
+                    <coordinates>[49.67241806],[35.17110418],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1617">
+                <name>کونوک (DEM)</name>
+                <Point id="1616">
+                    <coordinates>[49.67505294],[35.17113303],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1619">
+                <name>کونوک (DEM)</name>
+                <Point id="1618">
+                    <coordinates>[49.66484428],[35.17093076],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1621">
+                <name>کونوک (DEM)</name>
+                <Point id="1620">
+                    <coordinates>[49.67154124],[35.1710044],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1623">
+                <name>کونوک (DEM)</name>
+                <Point id="1622">
+                    <coordinates>[49.67461526],[35.17103808],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1625">
+                <name>کونوک (DEM)</name>
+                <Point id="1624">
+                    <coordinates>[49.66199132],[35.17080911],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1627">
+                <name>کونوک (DEM)</name>
+                <Point id="1626">
+                    <coordinates>[49.66824912],[35.17087808],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1629">
+                <name>کونوک (DEM)</name>
+                <Point id="1628">
+                    <coordinates>[49.6715427],[35.17091425],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1631">
+                <name>کونوک (DEM)</name>
+                <Point id="1630">
+                    <coordinates>[49.67253078],[35.17092509],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1633">
+                <name>کونوک (DEM)</name>
+                <Point id="1632">
+                    <coordinates>[49.68109414],[35.17101864],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1635">
+                <name>کونوک (DEM)</name>
+                <Point id="1634">
+                    <coordinates>[49.66462766],[35.17074805],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1637">
+                <name>کونوک (DEM)</name>
+                <Point id="1636">
+                    <coordinates>[49.66857995],[35.17079156],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1639">
+                <name>کونوک (DEM)</name>
+                <Point id="1638">
+                    <coordinates>[49.67187353],[35.17082772],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1641">
+                <name>کونوک (DEM)</name>
+                <Point id="1640">
+                    <coordinates>[49.67461819],[35.17085778],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1643">
+                <name>کونوک (DEM)</name>
+                <Point id="1642">
+                    <coordinates>[49.68526749],[35.17097385],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1645">
+                <name>کونوک (DEM)</name>
+                <Point id="1644">
+                    <coordinates>[49.66836185],[35.170699],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1647">
+                <name>کونوک (DEM)</name>
+                <Point id="1646">
+                    <coordinates>[49.67165542],[35.17073516],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1649">
+                <name>کونوک (DEM)</name>
+                <Point id="1648">
+                    <coordinates>[49.67253371],[35.17074479],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1651">
+                <name>کونوک (DEM)</name>
+                <Point id="1650">
+                    <coordinates>[49.68098726],[35.17083715],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1653">
+                <name>کونوک (DEM)</name>
+                <Point id="1652">
+                    <coordinates>[49.66485018],[35.17057017],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1655">
+                <name>کونوک (DEM)</name>
+                <Point id="1654">
+                    <coordinates>[49.6810985],[35.1707482],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1657">
+                <name>کونوک (DEM)</name>
+                <Point id="1656">
+                    <coordinates>[49.66441251],[35.17047518],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1659">
+                <name>کونوک (DEM)</name>
+                <Point id="1658">
+                    <coordinates>[49.67407365],[35.17058133],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1661">
+                <name>کونوک (DEM)</name>
+                <Point id="1660">
+                    <coordinates>[49.66199871],[35.17035838],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1663">
+                <name>کونوک (DEM)</name>
+                <Point id="1662">
+                    <coordinates>[49.67100111],[35.17045749],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1665">
+                <name>کونوک (DEM)</name>
+                <Point id="1664">
+                    <coordinates>[49.67484361],[35.1704996],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1667">
+                <name>کونوک (DEM)</name>
+                <Point id="1666">
+                    <coordinates>[49.66792858],[35.17033358],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1669">
+                <name>کونوک (DEM)</name>
+                <Point id="1668">
+                    <coordinates>[49.68505518],[35.17052073],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1671">
+                <name>کونوک (DEM)</name>
+                <Point id="1670">
+                    <coordinates>[49.66255059],[35.17018415],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1673">
+                <name>کونوک (DEM)</name>
+                <Point id="1672">
+                    <coordinates>[49.67407804],[35.17031089],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1675">
+                <name>کونوک (DEM)</name>
+                <Point id="1674">
+                    <coordinates>[49.66211292],[35.17008915],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1677">
+                <name>کونوک (DEM)</name>
+                <Point id="1676">
+                    <coordinates>[49.66826088],[35.1701569],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1679">
+                <name>کونوک (DEM)</name>
+                <Point id="1678">
+                    <coordinates>[49.67166422],[35.17019428],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1681">
+                <name>کونوک (DEM)</name>
+                <Point id="1680">
+                    <coordinates>[49.68505808],[35.17034043],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1683">
+                <name>کونوک (DEM)</name>
+                <Point id="1682">
+                    <coordinates>[49.66255354],[35.17000385],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1685">
+                <name>کونوک (DEM)</name>
+                <Point id="1684">
+                    <coordinates>[49.6852791],[35.17025267],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1687">
+                <name>کونوک (DEM)</name>
+                <Point id="1686">
+                    <coordinates>[49.66255502],[35.1699137],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1689">
+                <name>کونوک (DEM)</name>
+                <Point id="1688">
+                    <coordinates>[49.67386286],[35.17003804],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1691">
+                <name>کونوک (DEM)</name>
+                <Point id="1690">
+                    <coordinates>[49.68539034],[35.17016371],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1693">
+                <name>کونوک (DEM)</name>
+                <Point id="1692">
+                    <coordinates>[49.66859464],[35.16989008],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1695">
+                <name>کونوک (DEM)</name>
+                <Point id="1694">
+                    <coordinates>[49.68506243],[35.17006999],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1697">
+                <name>کونوک (DEM)</name>
+                <Point id="1696">
+                    <coordinates>[49.67353643],[35.16985414],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1699">
+                <name>کونوک (DEM)</name>
+                <Point id="1698">
+                    <coordinates>[49.68528346],[35.16998222],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1701">
+                <name>کونوک (DEM)</name>
+                <Point id="1700">
+                    <coordinates>[49.6684878],[35.16970858],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1703">
+                <name>کونوک (DEM)</name>
+                <Point id="1702">
+                    <coordinates>[49.68495555],[35.1698885],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1705">
+                <name>کونوک (DEM)</name>
+                <Point id="1704">
+                    <coordinates>[49.66805013],[35.1696136],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1707">
+                <name>کونوک (DEM)</name>
+                <Point id="1706">
+                    <coordinates>[49.67364914],[35.16967505],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1709">
+                <name>کونوک (DEM)</name>
+                <Point id="1708">
+                    <coordinates>[49.68539614],[35.16980312],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1711">
+                <name>کونوک (DEM)</name>
+                <Point id="1710">
+                    <coordinates>[49.67408975],[35.16958971],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1713">
+                <name>کونوک (DEM)</name>
+                <Point id="1712">
+                    <coordinates>[49.66827264],[35.16943572],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1715">
+                <name>کونوک (DEM)</name>
+                <Point id="1714">
+                    <coordinates>[49.68528926],[35.16962163],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1717">
+                <name>کونوک (DEM)</name>
+                <Point id="1716">
+                    <coordinates>[49.66871325],[35.1693504],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1719">
+                <name>کونوک (DEM)</name>
+                <Point id="1718">
+                    <coordinates>[49.65126064],[35.16897699],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1721">
+                <name>کونوک (DEM)</name>
+                <Point id="1720">
+                    <coordinates>[49.6854034],[35.16935238],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1723">
+                <name>کونوک (DEM)</name>
+                <Point id="1722">
+                    <coordinates>[49.65576323],[35.16893688],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1725">
+                <name>کونوک (DEM)</name>
+                <Point id="1724">
+                    <coordinates>[49.6513734],[35.16879792],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1727">
+                <name>کونوک (DEM)</name>
+                <Point id="1726">
+                    <coordinates>[49.65587449],[35.16884795],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1729">
+                <name>کونوک (DEM)</name>
+                <Point id="1728">
+                    <coordinates>[49.66257126],[35.16892208],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1731">
+                <name>کونوک (DEM)</name>
+                <Point id="1730">
+                    <coordinates>[49.65609554],[35.16876024],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1733">
+                <name>کونوک (DEM)</name>
+                <Point id="1732">
+                    <coordinates>[49.66839124],[35.16889605],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1735">
+                <name>کونوک (DEM)</name>
+                <Point id="1734">
+                    <coordinates>[49.65961007],[35.16870902],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1737">
+                <name>کونوک (DEM)</name>
+                <Point id="1736">
+                    <coordinates>[49.66433074],[35.16876117],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1739">
+                <name>کونوک (DEM)</name>
+                <Point id="1738">
+                    <coordinates>[49.66839271],[35.1688059],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1741">
+                <name>کونوک (DEM)</name>
+                <Point id="1740">
+                    <coordinates>[49.65587894],[35.16857751],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1743">
+                <name>کونوک (DEM)</name>
+                <Point id="1742">
+                    <coordinates>[49.6624659],[35.16865043],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1745">
+                <name>کونوک (DEM)</name>
+                <Point id="1744">
+                    <coordinates>[49.65566086],[35.16848493],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1747">
+                <name>کونوک (DEM)</name>
+                <Point id="1746">
+                    <coordinates>[49.66005216],[35.16853359],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1749">
+                <name>کونوک (DEM)</name>
+                <Point id="1748">
+                    <coordinates>[49.66455325],[35.1685833],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1751">
+                <name>کونوک (DEM)</name>
+                <Point id="1750">
+                    <coordinates>[49.6590656],[35.16843251],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1753">
+                <name>کونوک (DEM)</name>
+                <Point id="1752">
+                    <coordinates>[49.66005364],[35.16844344],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1755">
+                <name>کونوک (DEM)</name>
+                <Point id="1754">
+                    <coordinates>[49.66488407],[35.16849678],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1757">
+                <name>کونوک (DEM)</name>
+                <Point id="1756">
+                    <coordinates>[49.68508421],[35.16871777],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1759">
+                <name>کونوک (DEM)</name>
+                <Point id="1758">
+                    <coordinates>[49.65961599],[35.16834843],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1761">
+                <name>کونوک (DEM)</name>
+                <Point id="1760">
+                    <coordinates>[49.66258011],[35.1683812],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1763">
+                <name>کونوک (DEM)</name>
+                <Point id="1762">
+                    <coordinates>[49.65226208],[35.16817666],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1765">
+                <name>کونوک (DEM)</name>
+                <Point id="1764">
+                    <coordinates>[49.65928812],[35.16825464],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1767">
+                <name>کونوک (DEM)</name>
+                <Point id="1766">
+                    <coordinates>[49.66214246],[35.1682862],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1769">
+                <name>کونوک (DEM)</name>
+                <Point id="1768">
+                    <coordinates>[49.66466746],[35.16831407],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1771">
+                <name>کونوک (DEM)</name>
+                <Point id="1770">
+                    <coordinates>[49.65215378],[35.1680853],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1773">
+                <name>کونوک (DEM)</name>
+                <Point id="1772">
+                    <coordinates>[49.66225372],[35.16819727],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1775">
+                <name>کونوک (DEM)</name>
+                <Point id="1774">
+                    <coordinates>[49.66477871],[35.16822513],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1777">
+                <name>کونوک (DEM)</name>
+                <Point id="1776">
+                    <coordinates>[49.65160636],[35.16798904],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1779">
+                <name>کونوک (DEM)</name>
+                <Point id="1778">
+                    <coordinates>[49.65951065],[35.16807678],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1781">
+                <name>کونوک (DEM)</name>
+                <Point id="1780">
+                    <coordinates>[49.68509001],[35.16835717],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1783">
+                <name>کونوک (DEM)</name>
+                <Point id="1782">
+                    <coordinates>[49.65204698],[35.16790378],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1785">
+                <name>کونوک (DEM)</name>
+                <Point id="1784">
+                    <coordinates>[49.65962191],[35.16798785],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1787">
+                <name>کونوک (DEM)</name>
+                <Point id="1786">
+                    <coordinates>[49.68498168],[35.16826583],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1789">
+                <name>کونوک (DEM)</name>
+                <Point id="1788">
+                    <coordinates>[49.65171912],[35.16780997],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1791">
+                <name>کونوک (DEM)</name>
+                <Point id="1790">
+                    <coordinates>[49.65161083],[35.1677186],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1793">
+                <name>کونوک (DEM)</name>
+                <Point id="1792">
+                    <coordinates>[49.68520415],[35.16808792],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1795">
+                <name>کونوک (DEM)</name>
+                <Point id="1794">
+                    <coordinates>[49.65205293],[35.16754319],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1797">
+                <name>کونوک (DEM)</name>
+                <Point id="1796">
+                    <coordinates>[49.65194464],[35.16745182],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1799">
+                <name>کونوک (DEM)</name>
+                <Point id="1798">
+                    <coordinates>[49.65227547],[35.16736534],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1801">
+                <name>کونوک (DEM)</name>
+                <Point id="1800">
+                    <coordinates>[49.68422482],[35.1675363],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1803">
+                <name>کونوک (DEM)</name>
+                <Point id="1802">
+                    <coordinates>[49.68422627],[35.16744616],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1805">
+                <name>کونوک (DEM)</name>
+                <Point id="1804">
+                    <coordinates>[49.68554511],[35.16737031],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1807">
+                <name>کونوک (DEM)</name>
+                <Point id="1806">
+                    <coordinates>[49.68543823],[35.16718882],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1809">
+                <name>کونوک (DEM)</name>
+                <Point id="1808">
+                    <coordinates>[49.68533135],[35.16700734],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1811">
+                <name>کونوک (DEM)</name>
+                <Point id="1810">
+                    <coordinates>[49.68522447],[35.16682585],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1813">
+                <name>کونوک (DEM)</name>
+                <Point id="1812">
+                    <coordinates>[49.68533715],[35.16664674],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1815">
+                <name>کونوک (DEM)</name>
+                <Point id="1814">
+                    <coordinates>[49.68555961],[35.16646883],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1817">
+                <name>کونوک (DEM)</name>
+                <Point id="1816">
+                    <coordinates>[49.68556542],[35.16610824],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1819">
+                <name>کونوک (DEM)</name>
+                <Point id="1818">
+                    <coordinates>[49.6856781],[35.16592913],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1821">
+                <name>کونوک (DEM)</name>
+                <Point id="1820">
+                    <coordinates>[49.68557122],[35.16574764],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1823">
+                <name>کونوک (DEM)</name>
+                <Point id="1822">
+                    <coordinates>[49.68480712],[35.16546886],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1825">
+                <name>کونوک (DEM)</name>
+                <Point id="1824">
+                    <coordinates>[49.66330668],[35.1642417],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1827">
+                <name>کونوک (DEM)</name>
+                <Point id="1826">
+                    <coordinates>[49.65134401],[35.16392876],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1829">
+                <name>کونوک (DEM)</name>
+                <Point id="1828">
+                    <coordinates>[49.66309155],[35.16396883],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1831">
+                <name>کونوک (DEM)</name>
+                <Point id="1830">
+                    <coordinates>[49.66342235],[35.16388232],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1833">
+                <name>کونوک (DEM)</name>
+                <Point id="1832">
+                    <coordinates>[49.6630945],[35.16378854],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1835">
+                <name>کونوک (DEM)</name>
+                <Point id="1834">
+                    <coordinates>[49.66748703],[35.16374677],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1837">
+                <name>کونوک (DEM)</name>
+                <Point id="1836">
+                    <coordinates>[49.6674885],[35.16365663],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1839">
+                <name>کونوک (DEM)</name>
+                <Point id="1838">
+                    <coordinates>[49.66748997],[35.16356648],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1841">
+                <name>کونوک (DEM)</name>
+                <Point id="1840">
+                    <coordinates>[49.66749144],[35.16347633],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1843">
+                <name>کونوک (DEM)</name>
+                <Point id="1842">
+                    <coordinates>[49.66738314],[35.16338498],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1845">
+                <name>کونوک (DEM)</name>
+                <Point id="1844">
+                    <coordinates>[49.66738461],[35.16329483],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1847">
+                <name>کونوک (DEM)</name>
+                <Point id="1846">
+                    <coordinates>[49.65146866],[35.16302852],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1849">
+                <name>کونوک (DEM)</name>
+                <Point id="1848">
+                    <coordinates>[49.6512506],[35.16293592],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1851">
+                <name>کونوک (DEM)</name>
+                <Point id="1850">
+                    <coordinates>[49.68407642],[35.16311666],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1853">
+                <name>کونوک (DEM)</name>
+                <Point id="1852">
+                    <coordinates>[49.66025806],[35.16267523],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1855">
+                <name>کونوک (DEM)</name>
+                <Point id="1854">
+                    <coordinates>[49.68407932],[35.16293637],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1857">
+                <name>کونوک (DEM)</name>
+                <Point id="1856">
+                    <coordinates>[49.68408078],[35.16284622],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1859">
+                <name>کونوک (DEM)</name>
+                <Point id="1858">
+                    <coordinates>[49.66048057],[35.16249737],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1861">
+                <name>کونوک (DEM)</name>
+                <Point id="1860">
+                    <coordinates>[49.68441156],[35.16275965],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1863">
+                <name>کونوک (DEM)</name>
+                <Point id="1862">
+                    <coordinates>[49.66059182],[35.16240843],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1865">
+                <name>کونوک (DEM)</name>
+                <Point id="1864">
+                    <coordinates>[49.68419346],[35.16266711],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1867">
+                <name>کونوک (DEM)</name>
+                <Point id="1866">
+                    <coordinates>[49.68419491],[35.16257697],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1869">
+                <name>کونوک (DEM)</name>
+                <Point id="1868">
+                    <coordinates>[49.68386703],[35.16248324],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1871">
+                <name>کونوک (DEM)</name>
+                <Point id="1870">
+                    <coordinates>[49.66026693],[35.16213435],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1873">
+                <name>کونوک (DEM)</name>
+                <Point id="1872">
+                    <coordinates>[49.68419781],[35.16239667],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1875">
+                <name>کونوک (DEM)</name>
+                <Point id="1874">
+                    <coordinates>[49.68398262],[35.16212384],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1877">
+                <name>کونوک (DEM)</name>
+                <Point id="1876">
+                    <coordinates>[49.66598402],[35.16165646],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1879">
+                <name>کونوک (DEM)</name>
+                <Point id="1878">
+                    <coordinates>[49.68398843],[35.16176325],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1881">
+                <name>کونوک (DEM)</name>
+                <Point id="1880">
+                    <coordinates>[49.66631628],[35.1614798],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1883">
+                <name>کونوک (DEM)</name>
+                <Point id="1882">
+                    <coordinates>[49.64897366],[35.16119744],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1885">
+                <name>کونوک (DEM)</name>
+                <Point id="1884">
+                    <coordinates>[49.66598844],[35.16138602],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1887">
+                <name>کونوک (DEM)</name>
+                <Point id="1886">
+                    <coordinates>[49.68410111],[35.16158414],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1889">
+                <name>کونوک (DEM)</name>
+                <Point id="1888">
+                    <coordinates>[49.64952402],[35.16111342],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1891">
+                <name>کونوک (DEM)</name>
+                <Point id="1890">
+                    <coordinates>[49.68388301],[35.16149161],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1893">
+                <name>کونوک (DEM)</name>
+                <Point id="1892">
+                    <coordinates>[49.64919619],[35.1610196],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1895">
+                <name>کونوک (DEM)</name>
+                <Point id="1894">
+                    <coordinates>[49.68366492],[35.16139908],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1897">
+                <name>کونوک (DEM)</name>
+                <Point id="1896">
+                    <coordinates>[49.64886837],[35.16092578],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1899">
+                <name>کونوک (DEM)</name>
+                <Point id="1898">
+                    <coordinates>[49.68355659],[35.16130773],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1901">
+                <name>کونوک (DEM)</name>
+                <Point id="1900">
+                    <coordinates>[49.64865031],[35.16083318],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1903">
+                <name>کونوک (DEM)</name>
+                <Point id="1902">
+                    <coordinates>[49.6833385],[35.1612152],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1905">
+                <name>کونوک (DEM)</name>
+                <Point id="1904">
+                    <coordinates>[49.64854203],[35.16074181],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1907">
+                <name>کونوک (DEM)</name>
+                <Point id="1906">
+                    <coordinates>[49.64942021],[35.1607516],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1909">
+                <name>کونوک (DEM)</name>
+                <Point id="1908">
+                    <coordinates>[49.66511762],[35.16092561],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1911">
+                <name>کونوک (DEM)</name>
+                <Point id="1910">
+                    <coordinates>[49.68597452],[35.16115366],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1913">
+                <name>کونوک (DEM)</name>
+                <Point id="1912">
+                    <coordinates>[49.66446045],[35.1608282],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1915">
+                <name>کونوک (DEM)</name>
+                <Point id="1914">
+                    <coordinates>[49.68334141],[35.1610349],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1917">
+                <name>کونوک (DEM)</name>
+                <Point id="1916">
+                    <coordinates>[49.68619552],[35.16106589],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1919">
+                <name>کونوک (DEM)</name>
+                <Point id="1918">
+                    <coordinates>[49.66479125],[35.16074169],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1921">
+                <name>کونوک (DEM)</name>
+                <Point id="1920">
+                    <coordinates>[49.68597742],[35.16097336],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1923">
+                <name>کونوک (DEM)</name>
+                <Point id="1922">
+                    <coordinates>[49.66435363],[35.1606467],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1925">
+                <name>کونوک (DEM)</name>
+                <Point id="1924">
+                    <coordinates>[49.68356386],[35.16085699],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1927">
+                <name>کونوک (DEM)</name>
+                <Point id="1926">
+                    <coordinates>[49.66479419],[35.16056139],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1929">
+                <name>کونوک (DEM)</name>
+                <Point id="1928">
+                    <coordinates>[49.6860901],[35.16079426],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1931">
+                <name>کونوک (DEM)</name>
+                <Point id="1930">
+                    <coordinates>[49.68609155],[35.16070411],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1933">
+                <name>کونوک (DEM)</name>
+                <Point id="1932">
+                    <coordinates>[49.6834599],[35.16049521],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1935">
+                <name>کونوک (DEM)</name>
+                <Point id="1934">
+                    <coordinates>[49.68598757],[35.16034233],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1937">
+                <name>کونوک (DEM)</name>
+                <Point id="1936">
+                    <coordinates>[49.65108315],[35.15977834],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1939">
+                <name>کونوک (DEM)</name>
+                <Point id="1938">
+                    <coordinates>[49.65075533],[35.15968452],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1941">
+                <name>کونوک (DEM)</name>
+                <Point id="1940">
+                    <coordinates>[49.66228125],[35.15981236],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1943">
+                <name>کونوک (DEM)</name>
+                <Point id="1942">
+                    <coordinates>[49.66425712],[35.15983416],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1945">
+                <name>کونوک (DEM)</name>
+                <Point id="1944">
+                    <coordinates>[49.65097636],[35.15959682],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1947">
+                <name>کونوک (DEM)</name>
+                <Point id="1946">
+                    <coordinates>[49.66239249],[35.15972342],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1949">
+                <name>کونوک (DEM)</name>
+                <Point id="1948">
+                    <coordinates>[49.68368816],[35.15995671],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1951">
+                <name>کونوک (DEM)</name>
+                <Point id="1950">
+                    <coordinates>[49.65119739],[35.15950912],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1953">
+                <name>کونوک (DEM)</name>
+                <Point id="1952">
+                    <coordinates>[49.66447961],[35.15965629],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1955">
+                <name>کونوک (DEM)</name>
+                <Point id="1954">
+                    <coordinates>[49.65097934],[35.15941653],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1957">
+                <name>کونوک (DEM)</name>
+                <Point id="1956">
+                    <coordinates>[49.66228567],[35.15954191],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1959">
+                <name>کونوک (DEM)</name>
+                <Point id="1958">
+                    <coordinates>[49.66437132],[35.15956493],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1961">
+                <name>کونوک (DEM)</name>
+                <Point id="1960">
+                    <coordinates>[49.68621582],[35.15980382],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1963">
+                <name>کونوک (DEM)</name>
+                <Point id="1962">
+                    <coordinates>[49.65811588],[35.15940563],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1965">
+                <name>کونوک (DEM)</name>
+                <Point id="1964">
+                    <coordinates>[49.66272623],[35.15945661],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1967">
+                <name>کونوک (DEM)</name>
+                <Point id="1966">
+                    <coordinates>[49.68599772],[35.15971129],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1969">
+                <name>کونوک (DEM)</name>
+                <Point id="1968">
+                    <coordinates>[49.66217886],[35.15936041],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1971">
+                <name>کونوک (DEM)</name>
+                <Point id="1970">
+                    <coordinates>[49.66448403],[35.15938584],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1973">
+                <name>کونوک (DEM)</name>
+                <Point id="1972">
+                    <coordinates>[49.65811884],[35.15922533],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1975">
+                <name>کونوک (DEM)</name>
+                <Point id="1974">
+                    <coordinates>[49.68336611],[35.15950239],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1977">
+                <name>کونوک (DEM)</name>
+                <Point id="1976">
+                    <coordinates>[49.65790078],[35.15913276],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1979">
+                <name>کونوک (DEM)</name>
+                <Point id="1978">
+                    <coordinates>[49.68336756],[35.15941224],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1981">
+                <name>کونوک (DEM)</name>
+                <Point id="1980">
+                    <coordinates>[49.65790226],[35.15904261],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1983">
+                <name>کونوک (DEM)</name>
+                <Point id="1982">
+                    <coordinates>[49.68325924],[35.1593209],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1985">
+                <name>کونوک (DEM)</name>
+                <Point id="1984">
+                    <coordinates>[49.65790374],[35.15895246],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1987">
+                <name>کونوک (DEM)</name>
+                <Point id="1986">
+                    <coordinates>[49.68622451],[35.15926293],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1989">
+                <name>کونوک (DEM)</name>
+                <Point id="1988">
+                    <coordinates>[49.68611619],[35.15917159],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1991">
+                <name>کونوک (DEM)</name>
+                <Point id="1990">
+                    <coordinates>[49.68359291],[35.15905403],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1993">
+                <name>کونوک (DEM)</name>
+                <Point id="1992">
+                    <coordinates>[49.68370413],[35.15896508],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1995">
+                <name>کونوک (DEM)</name>
+                <Point id="1994">
+                    <coordinates>[49.68601077],[35.15889995],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1997">
+                <name>کونوک (DEM)</name>
+                <Point id="1996">
+                    <coordinates>[49.68601222],[35.15880981],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1999">
+                <name>کونوک (DEM)</name>
+                <Point id="1998">
+                    <coordinates>[49.68623321],[35.15872204],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2001">
+                <name>کونوک (DEM)</name>
+                <Point id="2000">
+                    <coordinates>[49.68623466],[35.15863189],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2003">
+                <name>کونوک (DEM)</name>
+                <Point id="2002">
+                    <coordinates>[49.68612634],[35.15854055],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2005">
+                <name>کونوک (DEM)</name>
+                <Point id="2004">
+                    <coordinates>[49.6837143],[35.15833404],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2007">
+                <name>کونوک (DEM)</name>
+                <Point id="2006">
+                    <coordinates>[49.68371575],[35.15824389],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2009">
+                <name>کونوک (DEM)</name>
+                <Point id="2008">
+                    <coordinates>[49.68393675],[35.15815613],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2011">
+                <name>کونوک (DEM)</name>
+                <Point id="2010">
+                    <coordinates>[49.68426751],[35.15806956],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2013">
+                <name>کونوک (DEM)</name>
+                <Point id="2012">
+                    <coordinates>[49.68602527],[35.15799847],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2015">
+                <name>کونوک (DEM)</name>
+                <Point id="2014">
+                    <coordinates>[49.68602817],[35.15781817],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2017">
+                <name>کونوک (DEM)</name>
+                <Point id="2016">
+                    <coordinates>[49.68624916],[35.15773041],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2019">
+                <name>کونوک (DEM)</name>
+                <Point id="2018">
+                    <coordinates>[49.66221281],[35.15728702],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2021">
+                <name>کونوک (DEM)</name>
+                <Point id="2020">
+                    <coordinates>[49.68603252],[35.15754773],0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="2023">
+                <name>کونوک (DEM)</name>
+                <Point id="2022">
+                    <coordinates>[49.66276312],[35.15720293],0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

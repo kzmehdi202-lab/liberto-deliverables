@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <name>Tappeh Khosrow — A_tile100 (325)</name>
+            <Placemark id="4">
+                <name>A_tile100-1 D=9.3</name>
+                <description>lat 35.1675148
+lon 49.6657785
+Mahalanobis 9.30</description>
+                <Point id="3">
+                    <coordinates>49.66577853524427,35.16751483951152,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="6">
+                <name>A_tile100-2 D=9.0</name>
+                <description>lat 35.1675027
+lon 49.6646807
+Mahalanobis 8.96</description>
+                <Point id="5">
+                    <coordinates>49.66468072102259,35.16750274146338,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="8">
+                <name>A_tile100-3 D=8.8</name>
+                <description>lat 35.1665595
+lon 49.6690881
+Mahalanobis 8.84</description>
+                <Point id="7">
+                    <coordinates>49.66908814111207,35.16655945117794,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="10">
+                <name>A_tile100-4 D=8.8</name>
+                <description>lat 35.1675015
+lon 49.6645709
+Mahalanobis 8.80</description>
+                <Point id="9">
+                    <coordinates>49.664570939636405,35.1675015311116,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="12">
+                <name>A_tile100-5 D=8.7</name>
+                <description>lat 35.1665163
+lon 49.6570109
+Mahalanobis 8.74</description>
+                <Point id="11">
+                    <coordinates>49.65701086330652,35.166516305823805,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="14">
+                <name>A_tile100-6 D=8.5</name>
+                <description>lat 35.1662702
+lon 49.6592109
+Mahalanobis 8.55</description>
+                <Point id="13">
+                    <coordinates>49.659210898657314,35.16627018887228,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="16">
+                <name>A_tile100-7 D=8.4</name>
+                <description>lat 35.1660349
+lon 49.6623989
+Mahalanobis 8.41</description>
+                <Point id="15">
+                    <coordinates>49.6623989356136,35.1660349466081,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="18">
+                <name>A_tile100-8 D=8.2</name>
+                <description>lat 35.1707808
+lon 49.6758273
+Mahalanobis 8.23</description>
+                <Point id="17">
+                    <coordinates>49.6758272983339,35.170780845963456,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="20">
+                <name>A_tile100-9 D=8.2</name>
+                <description>lat 35.1684151
+lon 49.6656540
+Mahalanobis 8.16</description>
+                <Point id="19">
+                    <coordinates>49.665654025313806,35.16841510404382,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="22">
+                <name>A_tile100-10 D=8.1</name>
+                <description>lat 35.1674247
+lon 49.6657800
+Mahalanobis 8.14</description>
+                <Point id="21">
+                    <coordinates>49.6657800079351,35.16742469211085,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="24">
+                <name>A_tile100-11 D=8.0</name>
+                <description>lat 35.1665879
+lon 49.6634879
+Mahalanobis 8.00</description>
+                <Point id="23">
+                    <coordinates>49.663487878176454,35.16658794889875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26">
+                <name>A_tile100-12 D=7.9</name>
+                <description>lat 35.1674235
+lon 49.6656702
+Mahalanobis 7.87</description>
+                <Point id="25">
+                    <coordinates>49.66567022660458,35.16742348275758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28">
+                <name>A_tile100-13 D=7.9</name>
+                <description>lat 35.1723206
+lon 49.6764612
+Mahalanobis 7.87</description>
+                <Point id="27">
+                    <coordinates>49.6764611773441,35.172320557390705,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="30">
+                <name>A_tile100-14 D=7.8</name>
+                <description>lat 35.1664990
+lon 49.6635991
+Mahalanobis 7.80</description>
+                <Point id="29">
+                    <coordinates>49.663599133333385,35.16649901287055,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32">
+                <name>A_tile100-15 D=7.7</name>
+                <description>lat 35.1675354
+lon 49.6676448
+Mahalanobis 7.71</description>
+                <Point id="31">
+                    <coordinates>49.667644820921566,35.16753538336967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34">
+                <name>A_tile100-16 D=7.6</name>
+                <description>lat 35.1674971
+lon 49.6723669
+Mahalanobis 7.58</description>
+                <Point id="33">
+                    <coordinates>49.672366899713246,35.16749707131448,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="36">
+                <name>A_tile100-17 D=7.5</name>
+                <description>lat 35.1649362
+lon 49.6608798
+Mahalanobis 7.55</description>
+                <Point id="35">
+                    <coordinates>49.66087976183558,35.16493619730226,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="38">
+                <name>A_tile100-18 D=7.5</name>
+                <description>lat 35.1656331
+lon 49.6586724
+Mahalanobis 7.48</description>
+                <Point id="37">
+                    <coordinates>49.65867236449585,35.165633081390425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40">
+                <name>A_tile100-19 D=7.5</name>
+                <description>lat 35.1648213
+lon 49.6668107
+Mahalanobis 7.48</description>
+                <Point id="39">
+                    <coordinates>49.66681071379191,35.164821295539696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42">
+                <name>A_tile100-20 D=7.4</name>
+                <description>lat 35.1675511
+lon 49.6690720
+Mahalanobis 7.39</description>
+                <Point id="41">
+                    <coordinates>49.66907198183063,35.16755107398612,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44">
+                <name>A_tile100-21 D=7.4</name>
+                <description>lat 35.1718472
+lon 49.6580213
+Mahalanobis 7.39</description>
+                <Point id="43">
+                    <coordinates>49.65802126422115,35.17184715143277,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="46">
+                <name>A_tile100-22 D=7.3</name>
+                <description>lat 35.1660362
+lon 49.6625087
+Mahalanobis 7.33</description>
+                <Point id="45">
+                    <coordinates>49.66250871493146,35.166036158884424,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="48">
+                <name>A_tile100-23 D=7.3</name>
+                <description>lat 35.1665715
+lon 49.6701859
+Mahalanobis 7.30</description>
+                <Point id="47">
+                    <coordinates>49.67018594462676,35.16657150900555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="50">
+                <name>A_tile100-24 D=7.2</name>
+                <description>lat 35.1658365
+lon 49.6607552
+Mahalanobis 7.23</description>
+                <Point id="49">
+                    <coordinates>49.66075520293765,35.165836456052595,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="52">
+                <name>A_tile100-25 D=7.2</name>
+                <description>lat 35.1646803
+lon 49.6622015
+Mahalanobis 7.21</description>
+                <Point id="51">
+                    <coordinates>49.66220152503596,35.16468031225585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="54">
+                <name>A_tile100-26 D=7.2</name>
+                <description>lat 35.1693902
+lon 49.6723361
+Mahalanobis 7.20</description>
+                <Point id="53">
+                    <coordinates>49.67233612441038,35.16939017148394,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="56">
+                <name>A_tile100-27 D=7.2</name>
+                <description>lat 35.1736257
+lon 49.6557958
+Mahalanobis 7.18</description>
+                <Point id="55">
+                    <coordinates>49.655795847332975,35.17362574129193,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="58">
+                <name>A_tile100-28 D=7.2</name>
+                <description>lat 35.1754409
+lon 49.6568641
+Mahalanobis 7.16</description>
+                <Point id="57">
+                    <coordinates>49.656864081843736,35.17544086103129,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="60">
+                <name>A_tile100-29 D=7.2</name>
+                <description>lat 35.1665722
+lon 49.6620607
+Mahalanobis 7.16</description>
+                <Point id="59">
+                    <coordinates>49.66206073734446,35.16657219287066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62">
+                <name>A_tile100-30 D=7.2</name>
+                <description>lat 35.1737459
+lon 49.6666650
+Mahalanobis 7.15</description>
+                <Point id="61">
+                    <coordinates>49.66666501234901,35.17374588901541,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="64">
+                <name>A_tile100-31 D=7.1</name>
+                <description>lat 35.1765238
+lon 49.6569561
+Mahalanobis 7.13</description>
+                <Point id="63">
+                    <coordinates>49.6569560789321,35.17652384198944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="66">
+                <name>A_tile100-32 D=7.1</name>
+                <description>lat 35.1719309
+lon 49.6655966
+Mahalanobis 7.09</description>
+                <Point id="65">
+                    <coordinates>49.665596577997064,35.17193085087739,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="68">
+                <name>A_tile100-33 D=7.1</name>
+                <description>lat 35.1776032
+lon 49.6730811
+Mahalanobis 7.07</description>
+                <Point id="67">
+                    <coordinates>49.67308109413126,35.17760322552058,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="70">
+                <name>A_tile100-34 D=7.1</name>
+                <description>lat 35.1761973
+lon 49.6600362
+Mahalanobis 7.06</description>
+                <Point id="69">
+                    <coordinates>49.66003620832106,35.17619730679558,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="72">
+                <name>A_tile100-35 D=7.1</name>
+                <description>lat 35.1674773
+lon 49.6623753
+Mahalanobis 7.06</description>
+                <Point id="71">
+                    <coordinates>49.66237531328794,35.16747730319153,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="74">
+                <name>A_tile100-36 D=7.0</name>
+                <description>lat 35.1720429
+lon 49.6758068
+Mahalanobis 7.03</description>
+                <Point id="73">
+                    <coordinates>49.67580683276266,35.17204291389577,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="76">
+                <name>A_tile100-37 D=7.0</name>
+                <description>lat 35.1693661
+lon 49.6701404
+Mahalanobis 7.02</description>
+                <Point id="75">
+                    <coordinates>49.67014044034968,35.169366083182425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="78">
+                <name>A_tile100-38 D=7.0</name>
+                <description>lat 35.1684212
+lon 49.6662029
+Mahalanobis 7.02</description>
+                <Point id="77">
+                    <coordinates>49.66620293869172,35.1684211500366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="80">
+                <name>A_tile100-39 D=7.0</name>
+                <description>lat 35.1736732
+lon 49.6600776
+Mahalanobis 7.01</description>
+                <Point id="79">
+                    <coordinates>49.66007763193124,35.17367318859497,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="82">
+                <name>A_tile100-40 D=7.0</name>
+                <description>lat 35.1683007
+lon 49.6634598
+Mahalanobis 7.00</description>
+                <Point id="81">
+                    <coordinates>49.66345984873697,35.16830074790722,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="84">
+                <name>A_tile100-41 D=7.0</name>
+                <description>lat 35.1675499
+lon 49.6689622
+Mahalanobis 6.97</description>
+                <Point id="83">
+                    <coordinates>49.668962200183095,35.16754986761232,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="86">
+                <name>A_tile100-42 D=6.9</name>
+                <description>lat 35.1734588
+lon 49.6733681
+Mahalanobis 6.95</description>
+                <Point id="85">
+                    <coordinates>49.67336806517615,35.17345884365923,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="88">
+                <name>A_tile100-43 D=6.9</name>
+                <description>lat 35.1692924
+lon 49.6634436
+Mahalanobis 6.88</description>
+                <Point id="87">
+                    <coordinates>49.6634436200859,35.1692923681551,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="90">
+                <name>A_tile100-44 D=6.9</name>
+                <description>lat 35.1660713
+lon 49.6656923
+Mahalanobis 6.86</description>
+                <Point id="89">
+                    <coordinates>49.665692317998605,35.16607127164012,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="92">
+                <name>A_tile100-45 D=6.9</name>
+                <description>lat 35.1792449
+lon 49.6665752
+Mahalanobis 6.86</description>
+                <Point id="91">
+                    <coordinates>49.66657520481721,35.179244874132785,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="94">
+                <name>A_tile100-46 D=6.8</name>
+                <description>lat 35.1720814
+lon 49.6710845
+Mahalanobis 6.82</description>
+                <Point id="93">
+                    <coordinates>49.671084488192335,35.17208135426587,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="96">
+                <name>A_tile100-47 D=6.7</name>
+                <description>lat 35.1702664
+lon 49.6700160
+Mahalanobis 6.74</description>
+                <Point id="95">
+                    <coordinates>49.670015974868775,35.170266352937425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="98">
+                <name>A_tile100-48 D=6.7</name>
+                <description>lat 35.1656700
+lon 49.6702006
+Mahalanobis 6.74</description>
+                <Point id="97">
+                    <coordinates>49.67020062208972,35.16567003317811,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="100">
+                <name>A_tile100-49 D=6.7</name>
+                <description>lat 35.1701210
+lon 49.6568418
+Mahalanobis 6.72</description>
+                <Point id="99">
+                    <coordinates>49.6568417808736,35.17012097093172,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="102">
+                <name>A_tile100-50 D=6.7</name>
+                <description>lat 35.1656459
+lon 49.6680050
+Mahalanobis 6.72</description>
+                <Point id="101">
+                    <coordinates>49.66800503992857,35.16564590837965,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="104">
+                <name>A_tile100-51 D=6.7</name>
+                <description>lat 35.1692195
+lon 49.6568566
+Mahalanobis 6.72</description>
+                <Point id="103">
+                    <coordinates>49.656856607540306,35.16921950054636,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="106">
+                <name>A_tile100-52 D=6.7</name>
+                <description>lat 35.1655975
+lon 49.6636139
+Mahalanobis 6.69</description>
+                <Point id="105">
+                    <coordinates>49.663613883443894,35.16559753945127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="108">
+                <name>A_tile100-53 D=6.7</name>
+                <description>lat 35.1765359
+lon 49.6744162
+Mahalanobis 6.67</description>
+                <Point id="107">
+                    <coordinates>49.67441620298103,35.17653588333572,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="110">
+                <name>A_tile100-54 D=6.7</name>
+                <description>lat 35.1719349
+lon 49.6578002
+Mahalanobis 6.67</description>
+                <Point id="109">
+                    <coordinates>49.65780020863704,35.17193486534056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="112">
+                <name>A_tile100-55 D=6.7</name>
+                <description>lat 35.1729059
+lon 49.6722790
+Mahalanobis 6.66</description>
+                <Point id="111">
+                    <coordinates>49.67227896266256,35.17290592730641,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="114">
+                <name>A_tile100-56 D=6.7</name>
+                <description>lat 35.1788043
+lon 49.6593345
+Mahalanobis 6.65</description>
+                <Point id="113">
+                    <coordinates>49.659334521694205,35.17880427980121,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="116">
+                <name>A_tile100-57 D=6.6</name>
+                <description>lat 35.1756993
+lon 49.6721237
+Mahalanobis 6.64</description>
+                <Point id="115">
+                    <coordinates>49.67212372659653,35.175699297180934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="118">
+                <name>A_tile100-58 D=6.6</name>
+                <description>lat 35.1765227
+lon 49.6732085
+Mahalanobis 6.64</description>
+                <Point id="117">
+                    <coordinates>49.67320846973942,35.17652265810378,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="120">
+                <name>A_tile100-59 D=6.6</name>
+                <description>lat 35.1674501
+lon 49.6680854
+Mahalanobis 6.63</description>
+                <Point id="119">
+                    <coordinates>49.66808541738563,35.16745006555681,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="122">
+                <name>A_tile100-60 D=6.6</name>
+                <description>lat 35.1774274
+lon 49.6652871
+Mahalanobis 6.63</description>
+                <Point id="121">
+                    <coordinates>49.66528711502138,35.17742741535346,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="124">
+                <name>A_tile100-61 D=6.6</name>
+                <description>lat 35.1666725
+lon 49.6711725
+Mahalanobis 6.63</description>
+                <Point id="123">
+                    <coordinates>49.67117250165483,35.16667250015877,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="126">
+                <name>A_tile100-62 D=6.6</name>
+                <description>lat 35.1764503
+lon 49.6666208
+Mahalanobis 6.63</description>
+                <Point id="125">
+                    <coordinates>49.666620847750195,35.17645030857569,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="128">
+                <name>A_tile100-63 D=6.6</name>
+                <description>lat 35.1777943
+lon 49.6740663
+Mahalanobis 6.58</description>
+                <Point id="127">
+                    <coordinates>49.6740663242811,35.177794343490504,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="130">
+                <name>A_tile100-64 D=6.6</name>
+                <description>lat 35.1637032
+lon 49.6635351
+Mahalanobis 6.58</description>
+                <Point id="129">
+                    <coordinates>49.66353508030867,35.163703233638394,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="132">
+                <name>A_tile100-65 D=6.6</name>
+                <description>lat 35.1673503
+lon 49.6672086
+Mahalanobis 6.57</description>
+                <Point id="131">
+                    <coordinates>49.66720863693682,35.167350257199274,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="134">
+                <name>A_tile100-66 D=6.6</name>
+                <description>lat 35.1774310
+lon 49.6656165
+Mahalanobis 6.56</description>
+                <Point id="133">
+                    <coordinates>49.665616499325196,35.177431045049616,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="136">
+                <name>A_tile100-67 D=6.5</name>
+                <description>lat 35.1664572
+lon 49.6679918
+Mahalanobis 6.54</description>
+                <Point id="135">
+                    <coordinates>49.66799180844691,35.16645723590938,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="138">
+                <name>A_tile100-68 D=6.5</name>
+                <description>lat 35.1694144
+lon 49.6581710
+Mahalanobis 6.54</description>
+                <Point id="137">
+                    <coordinates>49.658171045782815,35.16941439689644,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="140">
+                <name>A_tile100-69 D=6.5</name>
+                <description>lat 35.1764877
+lon 49.6700244
+Mahalanobis 6.54</description>
+                <Point id="139">
+                    <coordinates>49.67002444951351,35.17648773388282,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="142">
+                <name>A_tile100-70 D=6.5</name>
+                <description>lat 35.1765041
+lon 49.6633256
+Mahalanobis 6.54</description>
+                <Point id="141">
+                    <coordinates>49.66332556968462,35.176504146686504,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="144">
+                <name>A_tile100-71 D=6.5</name>
+                <description>lat 35.1766020
+lon 49.6722189
+Mahalanobis 6.53</description>
+                <Point id="143">
+                    <coordinates>49.67221885886895,35.17660197600729,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="146">
+                <name>A_tile100-72 D=6.5</name>
+                <description>lat 35.1773771
+lon 49.6689118
+Mahalanobis 6.52</description>
+                <Point id="145">
+                    <coordinates>49.668911815375324,35.17737714539835,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="148">
+                <name>A_tile100-73 D=6.5</name>
+                <description>lat 35.1675199
+lon 49.6744528
+Mahalanobis 6.51</description>
+                <Point id="147">
+                    <coordinates>49.67445275366524,35.16751991675831,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="150">
+                <name>A_tile100-74 D=6.5</name>
+                <description>lat 35.1683945
+lon 49.6637877
+Mahalanobis 6.50</description>
+                <Point id="149">
+                    <coordinates>49.663787721052266,35.16839452907067,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="152">
+                <name>A_tile100-75 D=6.5</name>
+                <description>lat 35.1694502
+lon 49.6695901
+Mahalanobis 6.49</description>
+                <Point id="151">
+                    <coordinates>49.66959005115203,35.16945020240269,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="154">
+                <name>A_tile100-76 D=6.5</name>
+                <description>lat 35.1701344
+lon 49.6580494
+Mahalanobis 6.48</description>
+                <Point id="153">
+                    <coordinates>49.65804941139041,35.170134357241096,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>A_tile100-77 D=6.5</name>
+                <description>lat 35.1774902
+lon 49.6709965
+Mahalanobis 6.48</description>
+                <Point id="155">
+                    <coordinates>49.670996451278604,35.1774902033415,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="158">
+                <name>A_tile100-78 D=6.5</name>
+                <description>lat 35.1643355
+lon 49.6636345
+Mahalanobis 6.45</description>
+                <Point id="157">
+                    <coordinates>49.66363453249833,35.16433547642938,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="160">
+                <name>A_tile100-79 D=6.4</name>
+                <description>lat 35.1720693
+lon 49.6699866
+Mahalanobis 6.44</description>
+                <Point id="159">
+                    <coordinates>49.6699866102205,35.172069302946845,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="162">
+                <name>A_tile100-80 D=6.4</name>
+                <description>lat 35.1792259
+lon 49.6730547
+Mahalanobis 6.44</description>
+                <Point id="161">
+                    <coordinates>49.673054719800504,35.17922588060447,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="164">
+                <name>A_tile100-81 D=6.4</name>
+                <description>lat 35.1736136
+lon 49.6546980
+Mahalanobis 6.43</description>
+                <Point id="163">
+                    <coordinates>49.65469795545939,35.17361355094645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>A_tile100-82 D=6.4</name>
+                <description>lat 35.1747375
+lon 49.6666488
+Mahalanobis 6.42</description>
+                <Point id="165">
+                    <coordinates>49.66664881934586,35.17473750966693,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="168">
+                <name>A_tile100-83 D=6.4</name>
+                <description>lat 35.1665353
+lon 49.6668925
+Mahalanobis 6.41</description>
+                <Point id="167">
+                    <coordinates>49.66689253604003,35.16653530568882,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="170">
+                <name>A_tile100-84 D=6.4</name>
+                <description>lat 35.1684386
+lon 49.6596145
+Mahalanobis 6.40</description>
+                <Point id="169">
+                    <coordinates>49.65961450941851,35.16843858118627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="172">
+                <name>A_tile100-85 D=6.4</name>
+                <description>lat 35.1647806
+lon 49.6713131
+Mahalanobis 6.40</description>
+                <Point id="171">
+                    <coordinates>49.6713130788519,35.16478060429344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="174">
+                <name>A_tile100-86 D=6.4</name>
+                <description>lat 35.1684995
+lon 49.6733388
+Mahalanobis 6.38</description>
+                <Point id="173">
+                    <coordinates>49.67333882745243,35.168499521686506,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="176">
+                <name>A_tile100-87 D=6.4</name>
+                <description>lat 35.1771121
+lon 49.6612291
+Mahalanobis 6.38</description>
+                <Point id="175">
+                    <coordinates>49.66122914820337,35.17711213421958,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="178">
+                <name>A_tile100-88 D=6.4</name>
+                <description>lat 35.1781696
+lon 49.6590155
+Mahalanobis 6.37</description>
+                <Point id="177">
+                    <coordinates>49.65901549804829,35.17816960399011,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>A_tile100-89 D=6.4</name>
+                <description>lat 35.1788613
+lon 49.6644950
+Mahalanobis 6.36</description>
+                <Point id="179">
+                    <coordinates>49.66449495703606,35.17886129769716,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="182">
+                <name>A_tile100-90 D=6.4</name>
+                <description>lat 35.1760731
+lon 49.6733256
+Mahalanobis 6.35</description>
+                <Point id="181">
+                    <coordinates>49.673325587865115,35.176073123167534,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="184">
+                <name>A_tile100-91 D=6.3</name>
+                <description>lat 35.1709821
+lon 49.6613297
+Mahalanobis 6.33</description>
+                <Point id="183">
+                    <coordinates>49.661329653331215,35.17098212890777,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>A_tile100-92 D=6.3</name>
+                <description>lat 35.1647082
+lon 49.6647264
+Mahalanobis 6.33</description>
+                <Point id="185">
+                    <coordinates>49.664726408932275,35.16470817263848,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="188">
+                <name>A_tile100-93 D=6.3</name>
+                <description>lat 35.1656664
+lon 49.6698713
+Mahalanobis 6.32</description>
+                <Point id="187">
+                    <coordinates>49.66987128459926,35.16566641699414,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="190">
+                <name>A_tile100-94 D=6.3</name>
+                <description>lat 35.1682644
+lon 49.6601664
+Mahalanobis 6.32</description>
+                <Point id="189">
+                    <coordinates>49.66016637947009,35.16826436018727,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>A_tile100-95 D=6.3</name>
+                <description>lat 35.1738795
+lon 49.6706160
+Mahalanobis 6.32</description>
+                <Point id="191">
+                    <coordinates>49.6706159842038,35.17387948486265,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="194">
+                <name>A_tile100-96 D=6.3</name>
+                <description>lat 35.1693287
+lon 49.6667371
+Mahalanobis 6.29</description>
+                <Point id="193">
+                    <coordinates>49.66673713520978,35.16932866769442,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="196">
+                <name>A_tile100-97 D=6.3</name>
+                <description>lat 35.1654941
+lon 49.6624078
+Mahalanobis 6.28</description>
+                <Point id="195">
+                    <coordinates>49.66240779355307,35.16549406279702,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="198">
+                <name>A_tile100-98 D=6.3</name>
+                <description>lat 35.1774044
+lon 49.6632010
+Mahalanobis 6.27</description>
+                <Point id="197">
+                    <coordinates>49.66320101579881,35.17740440648526,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="200">
+                <name>A_tile100-99 D=6.3</name>
+                <description>lat 35.1714659
+lon 49.6561608
+Mahalanobis 6.27</description>
+                <Point id="199">
+                    <coordinates>49.656160821520736,35.17146586918779,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="202">
+                <name>A_tile100-100 D=6.3</name>
+                <description>lat 35.1790996
+lon 49.6697623
+Mahalanobis 6.26</description>
+                <Point id="201">
+                    <coordinates>49.66976226596217,35.17909959665006,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="204">
+                <name>A_tile100-101 D=6.3</name>
+                <description>lat 35.1655963
+lon 49.6635041
+Mahalanobis 6.26</description>
+                <Point id="203">
+                    <coordinates>49.66350410466589,35.165596328189494,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="206">
+                <name>A_tile100-102 D=6.2</name>
+                <description>lat 35.1692988
+lon 49.6722278
+Mahalanobis 6.25</description>
+                <Point id="205">
+                    <coordinates>49.672227805822274,35.16929882040457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="208">
+                <name>A_tile100-103 D=6.2</name>
+                <description>lat 35.1702676
+lon 49.6701258
+Mahalanobis 6.25</description>
+                <Point id="207">
+                    <coordinates>49.670125760214425,35.170267558436834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="210">
+                <name>A_tile100-104 D=6.2</name>
+                <description>lat 35.1719187
+lon 49.6644987
+Mahalanobis 6.25</description>
+                <Point id="209">
+                    <coordinates>49.66449870450155,35.17191874986535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="212">
+                <name>A_tile100-105 D=6.2</name>
+                <description>lat 35.1799176
+lon 49.6621715
+Mahalanobis 6.24</description>
+                <Point id="211">
+                    <coordinates>49.66217150105477,35.179917613865264,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="214">
+                <name>A_tile100-106 D=6.2</name>
+                <description>lat 35.1774781
+lon 49.6698985
+Mahalanobis 6.24</description>
+                <Point id="213">
+                    <coordinates>49.66989850062768,35.17747814962056,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>A_tile100-107 D=6.2</name>
+                <description>lat 35.1709420
+lon 49.6577067
+Mahalanobis 6.23</description>
+                <Point id="215">
+                    <coordinates>49.65770672169069,35.17094203114126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="218">
+                <name>A_tile100-108 D=6.2</name>
+                <description>lat 35.1692560
+lon 49.6601501
+Mahalanobis 6.23</description>
+                <Point id="217">
+                    <coordinates>49.6601501108579,35.16925597910556,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="220">
+                <name>A_tile100-109 D=6.2</name>
+                <description>lat 35.1747834
+lon 49.6708209
+Mahalanobis 6.23</description>
+                <Point id="219">
+                    <coordinates>49.67082088975334,35.17478336972447,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="222">
+                <name>A_tile100-110 D=6.2</name>
+                <description>lat 35.1774601
+lon 49.6682516
+Mahalanobis 6.23</description>
+                <Point id="221">
+                    <coordinates>49.66825157587422,35.17746005038544,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="224">
+                <name>A_tile100-111 D=6.2</name>
+                <description>lat 35.1665516
+lon 49.6601945
+Mahalanobis 6.23</description>
+                <Point id="223">
+                    <coordinates>49.66019447792872,35.16655156347529,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="226">
+                <name>A_tile100-112 D=6.2</name>
+                <description>lat 35.1638726
+lon 49.6625441
+Mahalanobis 6.22</description>
+                <Point id="225">
+                    <coordinates>49.662544142367736,35.16387262324148,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="228">
+                <name>A_tile100-113 D=6.2</name>
+                <description>lat 35.1666605
+lon 49.6700747
+Mahalanobis 6.22</description>
+                <Point id="227">
+                    <coordinates>49.67007469634272,35.16666045124134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="230">
+                <name>A_tile100-114 D=6.2</name>
+                <description>lat 35.1770431
+lon 49.6713332
+Mahalanobis 6.19</description>
+                <Point id="229">
+                    <coordinates>49.6713331720891,35.17704308022698,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="232">
+                <name>A_tile100-115 D=6.2</name>
+                <description>lat 35.1686870
+lon 49.6739946
+Mahalanobis 6.18</description>
+                <Point id="231">
+                    <coordinates>49.67399459889586,35.16868703017888,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="234">
+                <name>A_tile100-116 D=6.2</name>
+                <description>lat 35.1773361
+lon 49.6651788
+Mahalanobis 6.17</description>
+                <Point id="233">
+                    <coordinates>49.66517879416142,35.17733605802496,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="236">
+                <name>A_tile100-117 D=6.2</name>
+                <description>lat 35.1790832
+lon 49.6600987
+Mahalanobis 6.17</description>
+                <Point id="235">
+                    <coordinates>49.66009865749421,35.1790832268181,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="238">
+                <name>A_tile100-118 D=6.2</name>
+                <description>lat 35.1637970
+lon 49.6638629
+Mahalanobis 6.17</description>
+                <Point id="237">
+                    <coordinates>49.663862934432984,35.163797014257575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="240">
+                <name>A_tile100-119 D=6.2</name>
+                <description>lat 35.1669243
+lon 49.6612864
+Mahalanobis 6.17</description>
+                <Point id="239">
+                    <coordinates>49.66128636693068,35.16692429087904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="242">
+                <name>A_tile100-120 D=6.2</name>
+                <description>lat 35.1717217
+lon 49.6548389
+Mahalanobis 6.16</description>
+                <Point id="241">
+                    <coordinates>49.654838931030916,35.171721685133235,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="244">
+                <name>A_tile100-121 D=6.2</name>
+                <description>lat 35.1747209
+lon 49.6733476
+Mahalanobis 6.16</description>
+                <Point id="243">
+                    <coordinates>49.673347559570956,35.174720909775495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>A_tile100-122 D=6.2</name>
+                <description>lat 35.1730429
+lon 49.6765593
+Mahalanobis 6.15</description>
+                <Point id="245">
+                    <coordinates>49.676559277181504,35.173042938851935,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="248">
+                <name>A_tile100-123 D=6.1</name>
+                <description>lat 35.1684513
+lon 49.6689475
+Mahalanobis 6.13</description>
+                <Point id="247">
+                    <coordinates>49.66894750803142,35.16845134270563,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="250">
+                <name>A_tile100-124 D=6.1</name>
+                <description>lat 35.1682291
+lon 49.6569827
+Mahalanobis 6.12</description>
+                <Point id="249">
+                    <coordinates>49.656982698129845,35.168229100310505,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="252">
+                <name>A_tile100-125 D=6.1</name>
+                <description>lat 35.1630855
+lon 49.6647529
+Mahalanobis 6.12</description>
+                <Point id="251">
+                    <coordinates>49.66475293451018,35.163085519155885,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="254">
+                <name>A_tile100-126 D=6.1</name>
+                <description>lat 35.1737893
+lon 49.6706175
+Mahalanobis 6.12</description>
+                <Point id="253">
+                    <coordinates>49.670617451901784,35.1737893373794,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="256">
+                <name>A_tile100-127 D=6.1</name>
+                <description>lat 35.1658982
+lon 49.6663539
+Mahalanobis 6.12</description>
+                <Point id="255">
+                    <coordinates>49.66635393913739,35.16589823101893,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="258">
+                <name>A_tile100-128 D=6.1</name>
+                <description>lat 35.1693311
+lon 49.6669567
+Mahalanobis 6.11</description>
+                <Point id="257">
+                    <coordinates>49.66695670309399,35.16933108448112,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="260">
+                <name>A_tile100-129 D=6.1</name>
+                <description>lat 35.1752929
+lon 49.6679575
+Mahalanobis 6.10</description>
+                <Point id="259">
+                    <coordinates>49.66795749008671,35.17529289151807,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="262">
+                <name>A_tile100-130 D=6.1</name>
+                <description>lat 35.1719725
+lon 49.6612036
+Mahalanobis 6.10</description>
+                <Point id="261">
+                    <coordinates>49.66120360996153,35.171972534315714,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="264">
+                <name>A_tile100-131 D=6.1</name>
+                <description>lat 35.1701938
+lon 49.6634289
+Mahalanobis 6.09</description>
+                <Point id="263">
+                    <coordinates>49.66342886607889,35.170193840960906,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="266">
+                <name>A_tile100-132 D=6.1</name>
+                <description>lat 35.1776542
+lon 49.6613301
+Mahalanobis 6.09</description>
+                <Point id="265">
+                    <coordinates>49.66133007352919,35.177654230422014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="268">
+                <name>A_tile100-133 D=6.1</name>
+                <description>lat 35.1648885
+lon 49.6647235
+Mahalanobis 6.09</description>
+                <Point id="267">
+                    <coordinates>49.664723461514974,35.16488846744191,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="270">
+                <name>A_tile100-134 D=6.1</name>
+                <description>lat 35.1772560
+lon 49.6579324
+Mahalanobis 6.09</description>
+                <Point id="269">
+                    <coordinates>49.65793236283231,35.17725597188105,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="272">
+                <name>A_tile100-135 D=6.1</name>
+                <description>lat 35.1792030
+lon 49.6709686
+Mahalanobis 6.08</description>
+                <Point id="271">
+                    <coordinates>49.670968568032656,35.179203004499804,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="274">
+                <name>A_tile100-136 D=6.1</name>
+                <description>lat 35.1738182
+lon 49.6732524
+Mahalanobis 6.08</description>
+                <Point id="273">
+                    <coordinates>49.67325241629737,35.17381823133473,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="276">
+                <name>A_tile100-137 D=6.1</name>
+                <description>lat 35.1670435
+lon 49.6639196
+Mahalanobis 6.07</description>
+                <Point id="275">
+                    <coordinates>49.663919625137844,35.16704353023682,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="278">
+                <name>A_tile100-138 D=6.1</name>
+                <description>lat 35.1747737
+lon 49.6699426
+Mahalanobis 6.06</description>
+                <Point id="277">
+                    <coordinates>49.6699425583583,35.174773726912704,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="280">
+                <name>A_tile100-139 D=6.0</name>
+                <description>lat 35.1720210
+lon 49.6655951
+Mahalanobis 6.05</description>
+                <Point id="279">
+                    <coordinates>49.665595104858134,35.17202099820413,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="282">
+                <name>A_tile100-140 D=6.0</name>
+                <description>lat 35.1756224
+lon 49.6733329
+Mahalanobis 6.03</description>
+                <Point id="281">
+                    <coordinates>49.67333291192966,35.175622385405134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="284">
+                <name>A_tile100-141 D=6.0</name>
+                <description>lat 35.1683824
+lon 49.6626899
+Mahalanobis 6.02</description>
+                <Point id="283">
+                    <coordinates>49.66268989590003,35.168382412719176,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="286">
+                <name>A_tile100-142 D=6.0</name>
+                <description>lat 35.1684634
+lon 49.6700453
+Mahalanobis 6.02</description>
+                <Point id="285">
+                    <coordinates>49.67004533690944,35.168463402368914,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="288">
+                <name>A_tile100-143 D=6.0</name>
+                <description>lat 35.1757400
+lon 49.6676208
+Mahalanobis 6.02</description>
+                <Point id="287">
+                    <coordinates>49.66762075863072,35.17574000512088,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="290">
+                <name>A_tile100-144 D=6.0</name>
+                <description>lat 35.1710322
+lon 49.6577052
+Mahalanobis 6.01</description>
+                <Point id="289">
+                    <coordinates>49.6577052398974,35.17103217819185,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="292">
+                <name>A_tile100-145 D=6.0</name>
+                <description>lat 35.1651921
+lon 49.6595580
+Mahalanobis 6.01</description>
+                <Point id="291">
+                    <coordinates>49.65955799080401,35.165192067726515,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="294">
+                <name>A_tile100-146 D=6.0</name>
+                <description>lat 35.1664359
+lon 49.6578906
+Mahalanobis 6.01</description>
+                <Point id="293">
+                    <coordinates>49.65789058261394,35.1664358933013,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="296">
+                <name>A_tile100-147 D=6.0</name>
+                <description>lat 35.1791075
+lon 49.6622946
+Mahalanobis 5.99</description>
+                <Point id="295">
+                    <coordinates>49.66229459384389,35.17910750292822,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="298">
+                <name>A_tile100-148 D=6.0</name>
+                <description>lat 35.1804779
+lon 49.6639194
+Mahalanobis 5.99</description>
+                <Point id="297">
+                    <coordinates>49.663919416762575,35.1804778911265,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="300">
+                <name>A_tile100-149 D=6.0</name>
+                <description>lat 35.1720452
+lon 49.6677909
+Mahalanobis 5.99</description>
+                <Point id="299">
+                    <coordinates>49.667790856233246,35.172045170468785,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="302">
+                <name>A_tile100-150 D=6.0</name>
+                <description>lat 35.1687890
+lon 49.6668557
+Mahalanobis 5.99</description>
+                <Point id="301">
+                    <coordinates>49.66685574871442,35.16878899163938,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>A_tile100-151 D=6.0</name>
+                <description>lat 35.1803938
+lon 49.6644699
+Mahalanobis 5.98</description>
+                <Point id="303">
+                    <coordinates>49.66446988568307,35.18039379961647,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>A_tile100-152 D=6.0</name>
+                <description>lat 35.1732304
+lon 49.6689794
+Mahalanobis 5.98</description>
+                <Point id="305">
+                    <coordinates>49.66897941801252,35.17323036499294,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="308">
+                <name>A_tile100-153 D=6.0</name>
+                <description>lat 35.1700453
+lon 49.6745216
+Mahalanobis 5.98</description>
+                <Point id="307">
+                    <coordinates>49.67452156895637,35.17004525381455,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="310">
+                <name>A_tile100-154 D=6.0</name>
+                <description>lat 35.1643838
+lon 49.6680256
+Mahalanobis 5.98</description>
+                <Point id="309">
+                    <coordinates>49.66802562118241,35.16438384310837,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="312">
+                <name>A_tile100-155 D=6.0</name>
+                <description>lat 35.1720045
+lon 49.6722936
+Mahalanobis 5.97</description>
+                <Point id="311">
+                    <coordinates>49.67229362046465,35.17200445165713,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="314">
+                <name>A_tile100-156 D=6.0</name>
+                <description>lat 35.1747012
+lon 49.6633551
+Mahalanobis 5.97</description>
+                <Point id="313">
+                    <coordinates>49.66335508621634,35.17470120289261,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="316">
+                <name>A_tile100-157 D=6.0</name>
+                <description>lat 35.1739324
+lon 49.6754468
+Mahalanobis 5.97</description>
+                <Point id="315">
+                    <coordinates>49.675446760454044,35.17393241352149,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="318">
+                <name>A_tile100-158 D=6.0</name>
+                <description>lat 35.1649127
+lon 49.6669190
+Mahalanobis 5.97</description>
+                <Point id="317">
+                    <coordinates>49.666919020386,35.164912651263435,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="320">
+                <name>A_tile100-159 D=6.0</name>
+                <description>lat 35.1684010
+lon 49.6725718
+Mahalanobis 5.97</description>
+                <Point id="319">
+                    <coordinates>49.67257181105018,35.16840095421667,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="322">
+                <name>A_tile100-160 D=6.0</name>
+                <description>lat 35.1702471
+lon 49.6682594
+Mahalanobis 5.96</description>
+                <Point id="321">
+                    <coordinates>49.66825941022532,35.170247051420176,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="324">
+                <name>A_tile100-161 D=6.0</name>
+                <description>lat 35.1756344
+lon 49.6744308
+Mahalanobis 5.95</description>
+                <Point id="323">
+                    <coordinates>49.67443083915871,35.17563440744653,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="326">
+                <name>A_tile100-162 D=5.9</name>
+                <description>lat 35.1800924
+lon 49.6698559
+Mahalanobis 5.95</description>
+                <Point id="325">
+                    <coordinates>49.669855905909095,35.180092423709,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="328">
+                <name>A_tile100-163 D=5.9</name>
+                <description>lat 35.1761791
+lon 49.6583893
+Mahalanobis 5.95</description>
+                <Point id="327">
+                    <coordinates>49.658389316032086,35.17617907404209,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="330">
+                <name>A_tile100-164 D=5.9</name>
+                <description>lat 35.1738315
+lon 49.6744601
+Mahalanobis 5.94</description>
+                <Point id="329">
+                    <coordinates>49.67446010956449,35.17383145524892,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="332">
+                <name>A_tile100-165 D=5.9</name>
+                <description>lat 35.1794766
+lon 49.6630573
+Mahalanobis 5.94</description>
+                <Point id="331">
+                    <coordinates>49.66305726683593,35.179476578662054,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="334">
+                <name>A_tile100-166 D=5.9</name>
+                <description>lat 35.1639560
+lon 49.6701187
+Mahalanobis 5.93</description>
+                <Point id="333">
+                    <coordinates>49.67011873060431,35.163956023501804,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="336">
+                <name>A_tile100-167 D=5.9</name>
+                <description>lat 35.1783144
+lon 49.6639548
+Mahalanobis 5.93</description>
+                <Point id="335">
+                    <coordinates>49.66395482575994,35.17831435940391,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="338">
+                <name>A_tile100-168 D=5.9</name>
+                <description>lat 35.1756039
+lon 49.6634501
+Mahalanobis 5.92</description>
+                <Point id="337">
+                    <coordinates>49.663450120498844,35.17560388656793,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="340">
+                <name>A_tile100-169 D=5.9</name>
+                <description>lat 35.1798904
+lon 49.6678825
+Mahalanobis 5.92</description>
+                <Point id="339">
+                    <coordinates>49.66788247524284,35.179890405265745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="342">
+                <name>A_tile100-170 D=5.9</name>
+                <description>lat 35.1718528
+lon 49.6666959
+Mahalanobis 5.91</description>
+                <Point id="341">
+                    <coordinates>49.66669592406795,35.17185279457457,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="344">
+                <name>A_tile100-171 D=5.9</name>
+                <description>lat 35.1638550
+lon 49.6691322
+Mahalanobis 5.91</description>
+                <Point id="343">
+                    <coordinates>49.66913220786826,35.16385502447794,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="346">
+                <name>A_tile100-172 D=5.9</name>
+                <description>lat 35.1773409
+lon 49.6656180
+Mahalanobis 5.91</description>
+                <Point id="345">
+                    <coordinates>49.665617972735504,35.17734089780275,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="348">
+                <name>A_tile100-173 D=5.9</name>
+                <description>lat 35.1763807
+lon 49.6684888
+Mahalanobis 5.89</description>
+                <Point id="347">
+                    <coordinates>49.66848880845154,35.176380696603054,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="350">
+                <name>A_tile100-174 D=5.9</name>
+                <description>lat 35.1721223
+lon 49.6748173
+Mahalanobis 5.89</description>
+                <Point id="349">
+                    <coordinates>49.67481727816601,35.17212225434908,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="352">
+                <name>A_tile100-175 D=5.9</name>
+                <description>lat 35.1647420
+lon 49.6678002
+Mahalanobis 5.89</description>
+                <Point id="351">
+                    <coordinates>49.66780018530363,35.164742018626455,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="354">
+                <name>A_tile100-176 D=5.9</name>
+                <description>lat 35.1715754
+lon 49.6742771
+Mahalanobis 5.88</description>
+                <Point id="353">
+                    <coordinates>49.674277119320045,35.17157536096268,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="356">
+                <name>A_tile100-177 D=5.9</name>
+                <description>lat 35.1682267
+lon 49.6567631
+Mahalanobis 5.88</description>
+                <Point id="355">
+                    <coordinates>49.656763134103386,35.16822666551188,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="358">
+                <name>A_tile100-178 D=5.9</name>
+                <description>lat 35.1692936
+lon 49.6635534
+Mahalanobis 5.88</description>
+                <Point id="357">
+                    <coordinates>49.66355340382845,35.16929357958185,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="360">
+                <name>A_tile100-179 D=5.9</name>
+                <description>lat 35.1692207
+lon 49.6569664
+Mahalanobis 5.88</description>
+                <Point id="359">
+                    <coordinates>49.65696639088885,35.16922071794043,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="362">
+                <name>A_tile100-180 D=5.9</name>
+                <description>lat 35.1653323
+lon 49.6722923
+Mahalanobis 5.88</description>
+                <Point id="361">
+                    <coordinates>49.67229228915833,35.165332324218724,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="364">
+                <name>A_tile100-181 D=5.9</name>
+                <description>lat 35.1739084
+lon 49.6732510
+Mahalanobis 5.85</description>
+                <Point id="363">
+                    <coordinates>49.67325095150642,35.17390837891395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="366">
+                <name>A_tile100-182 D=5.8</name>
+                <description>lat 35.1685236
+lon 49.6755345
+Mahalanobis 5.85</description>
+                <Point id="365">
+                    <coordinates>49.675534491066486,35.1685235515045,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="368">
+                <name>A_tile100-183 D=5.8</name>
+                <description>lat 35.1724780
+lon 49.6743723
+Mahalanobis 5.84</description>
+                <Point id="367">
+                    <coordinates>49.67437227215039,35.17247803911712,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="370">
+                <name>A_tile100-184 D=5.8</name>
+                <description>lat 35.1646706
+lon 49.6613233
+Mahalanobis 5.83</description>
+                <Point id="369">
+                    <coordinates>49.661323305362906,35.16467060935757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="372">
+                <name>A_tile100-185 D=5.8</name>
+                <description>lat 35.1684226
+lon 49.6745479
+Mahalanobis 5.82</description>
+                <Point id="371">
+                    <coordinates>49.67454790518729,35.168422595302395,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="374">
+                <name>A_tile100-186 D=5.8</name>
+                <description>lat 35.1782950
+lon 49.6621981
+Mahalanobis 5.81</description>
+                <Point id="373">
+                    <coordinates>49.66219809234203,35.178294966157225,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="376">
+                <name>A_tile100-187 D=5.8</name>
+                <description>lat 35.1765530
+lon 49.6595911
+Mahalanobis 5.81</description>
+                <Point id="375">
+                    <coordinates>49.65959111688215,35.17655303507687,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="378">
+                <name>A_tile100-188 D=5.8</name>
+                <description>lat 35.1693890
+lon 49.6722263
+Mahalanobis 5.80</description>
+                <Point id="377">
+                    <coordinates>49.672226340145485,35.1693889680137,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="380">
+                <name>A_tile100-189 D=5.8</name>
+                <description>lat 35.1720274
+lon 49.6580183
+Mahalanobis 5.80</description>
+                <Point id="379">
+                    <coordinates>49.658018301223095,35.17202744552884,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="382">
+                <name>A_tile100-190 D=5.8</name>
+                <description>lat 35.1718836
+lon 49.6613149
+Mahalanobis 5.79</description>
+                <Point id="381">
+                    <coordinates>49.66131487506848,35.17188360068271,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="384">
+                <name>A_tile100-191 D=5.8</name>
+                <description>lat 35.1631326
+lon 49.6690342
+Mahalanobis 5.79</description>
+                <Point id="383">
+                    <coordinates>49.66903418229704,35.163132637634696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="386">
+                <name>A_tile100-192 D=5.8</name>
+                <description>lat 35.1701477
+lon 49.6592570
+Mahalanobis 5.79</description>
+                <Point id="385">
+                    <coordinates>49.659257042703096,35.17014773151606,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="388">
+                <name>A_tile100-193 D=5.8</name>
+                <description>lat 35.1658011
+lon 49.6739317
+Mahalanobis 5.79</description>
+                <Point id="387">
+                    <coordinates>49.6739316541437,35.16580110177132,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="390">
+                <name>A_tile100-194 D=5.8</name>
+                <description>lat 35.1719604
+lon 49.6601057
+Mahalanobis 5.79</description>
+                <Point id="389">
+                    <coordinates>49.660105737876684,35.17196039347722,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="392">
+                <name>A_tile100-195 D=5.8</name>
+                <description>lat 35.1737954
+lon 49.6711664
+Mahalanobis 5.79</description>
+                <Point id="391">
+                    <coordinates>49.67116640250823,35.17379536167841,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="394">
+                <name>A_tile100-196 D=5.8</name>
+                <description>lat 35.1721196
+lon 49.6663621
+Mahalanobis 5.78</description>
+                <Point id="393">
+                    <coordinates>49.66636214524434,35.172119610375944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="396">
+                <name>A_tile100-197 D=5.8</name>
+                <description>lat 35.1695870
+lon 49.6656349
+Mahalanobis 5.78</description>
+                <Point id="395">
+                    <coordinates>49.665634877313565,35.16958701989127,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="398">
+                <name>A_tile100-198 D=5.8</name>
+                <description>lat 35.1756740
+lon 49.6698181
+Mahalanobis 5.78</description>
+                <Point id="397">
+                    <coordinates>49.6698180804938,35.17567399544928,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="400">
+                <name>A_tile100-199 D=5.8</name>
+                <description>lat 35.1761205
+lon 49.6612454
+Mahalanobis 5.77</description>
+                <Point id="399">
+                    <coordinates>49.6612454084433,35.176120516151684,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="402">
+                <name>A_tile100-200 D=5.8</name>
+                <description>lat 35.1637813
+lon 49.6624358
+Mahalanobis 5.77</description>
+                <Point id="401">
+                    <coordinates>49.6624358421379,35.16378126372989,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="404">
+                <name>A_tile100-201 D=5.8</name>
+                <description>lat 35.1720321
+lon 49.6748187
+Mahalanobis 5.77</description>
+                <Point id="403">
+                    <coordinates>49.67481874113126,35.17203210668602,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="406">
+                <name>A_tile100-202 D=5.8</name>
+                <description>lat 35.1756160
+lon 49.6645480
+Mahalanobis 5.76</description>
+                <Point id="405">
+                    <coordinates>49.66454804306624,35.17561599818113,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="408">
+                <name>A_tile100-203 D=5.8</name>
+                <description>lat 35.1692681
+lon 49.6612479
+Mahalanobis 5.76</description>
+                <Point id="407">
+                    <coordinates>49.66124794661124,35.169268118734294,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="410">
+                <name>A_tile100-204 D=5.8</name>
+                <description>lat 35.1775313
+lon 49.6583671
+Mahalanobis 5.76</description>
+                <Point id="409">
+                    <coordinates>49.65836709543682,35.17753127886158,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="412">
+                <name>A_tile100-205 D=5.8</name>
+                <description>lat 35.1633789
+lon 49.6668343
+Mahalanobis 5.75</description>
+                <Point id="411">
+                    <coordinates>49.66683425548837,35.16337893571212,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="414">
+                <name>A_tile100-206 D=5.8</name>
+                <description>lat 35.1702448
+lon 49.6762752
+Mahalanobis 5.75</description>
+                <Point id="413">
+                    <coordinates>49.67627521121963,35.170244759922184,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>A_tile100-207 D=5.7</name>
+                <description>lat 35.1790646
+lon 49.6665781
+Mahalanobis 5.75</description>
+                <Point id="415">
+                    <coordinates>49.66657814971216,35.179064579621254,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="418">
+                <name>A_tile100-208 D=5.7</name>
+                <description>lat 35.1720934
+lon 49.6721824
+Mahalanobis 5.75</description>
+                <Point id="417">
+                    <coordinates>49.6721823668156,35.17209339563819,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="420">
+                <name>A_tile100-209 D=5.7</name>
+                <description>lat 35.1675319
+lon 49.6755506
+Mahalanobis 5.74</description>
+                <Point id="419">
+                    <coordinates>49.67555057247695,35.16753192625577,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>A_tile100-210 D=5.7</name>
+                <description>lat 35.1665285
+lon 49.6581087
+Mahalanobis 5.73</description>
+                <Point id="421">
+                    <coordinates>49.658108660827494,35.16652847308193,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="424">
+                <name>A_tile100-211 D=5.7</name>
+                <description>lat 35.1746607
+lon 49.6678580
+Mahalanobis 5.73</description>
+                <Point id="423">
+                    <coordinates>49.667857993759554,35.17466065234989,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="426">
+                <name>A_tile100-212 D=5.7</name>
+                <description>lat 35.1791680
+lon 49.6677844
+Mahalanobis 5.72</description>
+                <Point id="425">
+                    <coordinates>49.66778444618689,35.17916801909287,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>A_tile100-213 D=5.7</name>
+                <description>lat 35.1639198
+lon 49.6668254
+Mahalanobis 5.72</description>
+                <Point id="427">
+                    <coordinates>49.66682542754818,35.163919820689394,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="430">
+                <name>A_tile100-214 D=5.7</name>
+                <description>lat 35.1800308
+lon 49.6642562
+Mahalanobis 5.72</description>
+                <Point id="429">
+                    <coordinates>49.664256188556756,35.180030789045,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="432">
+                <name>A_tile100-215 D=5.7</name>
+                <description>lat 35.1716342
+lon 49.6714212
+Mahalanobis 5.72</description>
+                <Point id="431">
+                    <coordinates>49.67142118524505,35.17163423001187,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>A_tile100-216 D=5.7</name>
+                <description>lat 35.1738571
+lon 49.6604040
+Mahalanobis 5.71</description>
+                <Point id="433">
+                    <coordinates>49.66040404245972,35.17385712633858,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="436">
+                <name>A_tile100-217 D=5.7</name>
+                <description>lat 35.1752053
+lon 49.6764144
+Mahalanobis 5.71</description>
+                <Point id="435">
+                    <coordinates>49.67641441675115,35.17520528369598,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="438">
+                <name>A_tile100-218 D=5.7</name>
+                <description>lat 35.1665836
+lon 49.6712837
+Mahalanobis 5.70</description>
+                <Point id="437">
+                    <coordinates>49.67128374879318,35.166583556888476,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>A_tile100-219 D=5.7</name>
+                <description>lat 35.1692802
+lon 49.6623458
+Mahalanobis 5.70</description>
+                <Point id="439">
+                    <coordinates>49.662345783020754,35.16928024841747,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="442">
+                <name>A_tile100-220 D=5.7</name>
+                <description>lat 35.1747145
+lon 49.6645628
+Mahalanobis 5.70</description>
+                <Point id="441">
+                    <coordinates>49.66456278767984,35.174714525771755,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="444">
+                <name>A_tile100-221 D=5.7</name>
+                <description>lat 35.1808917
+lon 49.6687447
+Mahalanobis 5.69</description>
+                <Point id="443">
+                    <coordinates>49.66874468970447,35.18089168471898,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="446">
+                <name>A_tile100-222 D=5.7</name>
+                <description>lat 35.1773699
+lon 49.6682530
+Mahalanobis 5.68</description>
+                <Point id="445">
+                    <coordinates>49.66825304637701,35.17736990304222,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="448">
+                <name>A_tile100-223 D=5.7</name>
+                <description>lat 35.1666737
+lon 49.6712823
+Mahalanobis 5.68</description>
+                <Point id="447">
+                    <coordinates>49.671282282221874,35.16667370450356,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="450">
+                <name>A_tile100-224 D=5.7</name>
+                <description>lat 35.1761985
+lon 49.6601460
+Mahalanobis 5.68</description>
+                <Point id="449">
+                    <coordinates>49.66014600119289,35.17619852151663,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="452">
+                <name>A_tile100-225 D=5.7</name>
+                <description>lat 35.1702135
+lon 49.6734208
+Mahalanobis 5.68</description>
+                <Point id="451">
+                    <coordinates>49.67342078802235,35.17021352953111,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="454">
+                <name>A_tile100-226 D=5.7</name>
+                <description>lat 35.1774165
+lon 49.6642990
+Mahalanobis 5.68</description>
+                <Point id="453">
+                    <coordinates>49.664298962463356,35.17741652089275,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="456">
+                <name>A_tile100-227 D=5.7</name>
+                <description>lat 35.1691858
+lon 49.6701434
+Mahalanobis 5.67</description>
+                <Point id="455">
+                    <coordinates>49.670143376298505,35.169185788114774,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="458">
+                <name>A_tile100-228 D=5.7</name>
+                <description>lat 35.1710415
+lon 49.6667092
+Mahalanobis 5.67</description>
+                <Point id="457">
+                    <coordinates>49.666709171065165,35.171041468196904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="460">
+                <name>A_tile100-229 D=5.7</name>
+                <description>lat 35.1719129
+lon 49.6558240
+Mahalanobis 5.66</description>
+                <Point id="459">
+                    <coordinates>49.65582404302647,35.17191294916846,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="462">
+                <name>A_tile100-230 D=5.7</name>
+                <description>lat 35.1766248
+lon 49.6743049
+Mahalanobis 5.66</description>
+                <Point id="461">
+                    <coordinates>49.67430494524282,35.176624829116555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="464">
+                <name>A_tile100-231 D=5.7</name>
+                <description>lat 35.1702047
+lon 49.6644169
+Mahalanobis 5.66</description>
+                <Point id="463">
+                    <coordinates>49.66441693089669,35.17020474058334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="466">
+                <name>A_tile100-232 D=5.7</name>
+                <description>lat 35.1746466
+lon 49.6584145
+Mahalanobis 5.66</description>
+                <Point id="465">
+                    <coordinates>49.65841449758434,35.17464657486623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="468">
+                <name>A_tile100-233 D=5.7</name>
+                <description>lat 35.1746836
+lon 49.6699440
+Mahalanobis 5.65</description>
+                <Point id="467">
+                    <coordinates>49.669944026848256,35.174683579467455,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="470">
+                <name>A_tile100-234 D=5.7</name>
+                <description>lat 35.1746660
+lon 49.6601711
+Mahalanobis 5.65</description>
+                <Point id="469">
+                    <coordinates>49.66017114979685,35.17466602124273,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="472">
+                <name>A_tile100-235 D=5.6</name>
+                <description>lat 35.1702796
+lon 49.6712236
+Mahalanobis 5.64</description>
+                <Point id="471">
+                    <coordinates>49.671223614029365,35.17027960796068,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="474">
+                <name>A_tile100-236 D=5.6</name>
+                <description>lat 35.1648864
+lon 49.6727387
+Mahalanobis 5.63</description>
+                <Point id="473">
+                    <coordinates>49.67273872889432,35.164886398329415,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="476">
+                <name>A_tile100-237 D=5.6</name>
+                <description>lat 35.1675752
+lon 49.6712676
+Mahalanobis 5.63</description>
+                <Point id="475">
+                    <coordinates>49.671267616150615,35.167575180577465,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="478">
+                <name>A_tile100-238 D=5.6</name>
+                <description>lat 35.1738179
+lon 49.6650167
+Mahalanobis 5.62</description>
+                <Point id="477">
+                    <coordinates>49.66501669115865,35.173817894760795,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="480">
+                <name>A_tile100-239 D=5.6</name>
+                <description>lat 35.1732183
+lon 49.6678815
+Mahalanobis 5.62</description>
+                <Point id="479">
+                    <coordinates>49.66788152553445,35.17321829425403,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="482">
+                <name>A_tile100-240 D=5.6</name>
+                <description>lat 35.1711570
+lon 49.6690132
+Mahalanobis 5.61</description>
+                <Point id="481">
+                    <coordinates>49.66901321415351,35.17115697368103,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="484">
+                <name>A_tile100-241 D=5.6</name>
+                <description>lat 35.1777184
+lon 49.6671492
+Mahalanobis 5.61</description>
+                <Point id="483">
+                    <coordinates>49.66714921167268,35.17771841369377,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="486">
+                <name>A_tile100-242 D=5.6</name>
+                <description>lat 35.1748099
+lon 49.6732363
+Mahalanobis 5.59</description>
+                <Point id="485">
+                    <coordinates>49.67323630323917,35.17480985462943,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="488">
+                <name>A_tile100-243 D=5.6</name>
+                <description>lat 35.1707424
+lon 49.6723141
+Mahalanobis 5.59</description>
+                <Point id="487">
+                    <coordinates>49.6723141402942,35.170742385513364,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="490">
+                <name>A_tile100-244 D=5.6</name>
+                <description>lat 35.1718593
+lon 49.6591191
+Mahalanobis 5.58</description>
+                <Point id="489">
+                    <coordinates>49.659119133846495,35.17185931112922,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="492">
+                <name>A_tile100-245 D=5.6</name>
+                <description>lat 35.1682656
+lon 49.6602762
+Mahalanobis 5.58</description>
+                <Point id="491">
+                    <coordinates>49.660276161683846,35.168265574553324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="494">
+                <name>A_tile100-246 D=5.6</name>
+                <description>lat 35.1737159
+lon 49.6557944
+Mahalanobis 5.58</description>
+                <Point id="493">
+                    <coordinates>49.65579436328321,35.173715888231804,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="496">
+                <name>A_tile100-247 D=5.6</name>
+                <description>lat 35.1737471
+lon 49.6667748
+Mahalanobis 5.57</description>
+                <Point id="495">
+                    <coordinates>49.666774802222314,35.17374709765519,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="498">
+                <name>A_tile100-248 D=5.6</name>
+                <description>lat 35.1720089
+lon 49.6644972
+Mahalanobis 5.57</description>
+                <Point id="497">
+                    <coordinates>49.66449723015147,35.1720088971519,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="500">
+                <name>A_tile100-249 D=5.6</name>
+                <description>lat 35.1740175
+lon 49.6667704
+Mahalanobis 5.57</description>
+                <Point id="499">
+                    <coordinates>49.66677038639054,35.174017539679866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="502">
+                <name>A_tile100-250 D=5.6</name>
+                <description>lat 35.1749352
+lon 49.6600569
+Mahalanobis 5.57</description>
+                <Point id="501">
+                    <coordinates>49.660056920769904,35.17493524783232,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="504">
+                <name>A_tile100-251 D=5.6</name>
+                <description>lat 35.1727899
+lon 49.6617392
+Mahalanobis 5.56</description>
+                <Point id="503">
+                    <coordinates>49.661739249553676,35.172789925615376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="506">
+                <name>A_tile100-252 D=5.6</name>
+                <description>lat 35.1736865
+lon 49.6612853
+Mahalanobis 5.55</description>
+                <Point id="505">
+                    <coordinates>49.66128531657437,35.17368654381304,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="508">
+                <name>A_tile100-253 D=5.5</name>
+                <description>lat 35.1773814
+lon 49.6611149
+Mahalanobis 5.55</description>
+                <Point id="507">
+                    <coordinates>49.66111491894229,35.17738136170281,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="510">
+                <name>A_tile100-254 D=5.5</name>
+                <description>lat 35.1711270
+lon 49.6745040
+Mahalanobis 5.54</description>
+                <Point id="509">
+                    <coordinates>49.67450401029966,35.17112702590446,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="512">
+                <name>A_tile100-255 D=5.5</name>
+                <description>lat 35.1740310
+lon 49.6762138
+Mahalanobis 5.54</description>
+                <Point id="511">
+                    <coordinates>49.676213832672545,35.17403096391937,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="514">
+                <name>A_tile100-256 D=5.5</name>
+                <description>lat 35.1773892
+lon 49.6700098
+Mahalanobis 5.53</description>
+                <Point id="513">
+                    <coordinates>49.67000976422787,35.17738920803302,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="516">
+                <name>A_tile100-257 D=5.5</name>
+                <description>lat 35.1712652
+lon 49.6706585
+Mahalanobis 5.53</description>
+                <Point id="515">
+                    <coordinates>49.67065854479972,35.17126520728062,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="518">
+                <name>A_tile100-258 D=5.5</name>
+                <description>lat 35.1683557
+lon 49.6602747
+Mahalanobis 5.53</description>
+                <Point id="517">
+                    <coordinates>49.66027468287303,35.168355721738735,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="520">
+                <name>A_tile100-259 D=5.5</name>
+                <description>lat 35.1768381
+lon 49.6609042
+Mahalanobis 5.53</description>
+                <Point id="519">
+                    <coordinates>49.66090420155626,35.17683805138327,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="522">
+                <name>A_tile100-260 D=5.5</name>
+                <description>lat 35.1737985
+lon 49.6632601
+Mahalanobis 5.52</description>
+                <Point id="521">
+                    <coordinates>49.66326005370773,35.17379851905848,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="524">
+                <name>A_tile100-261 D=5.5</name>
+                <description>lat 35.1809540
+lon 49.6662178
+Mahalanobis 5.52</description>
+                <Point id="523">
+                    <coordinates>49.66621782835501,35.180954044233474,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="526">
+                <name>A_tile100-262 D=5.5</name>
+                <description>lat 35.1689381
+lon 49.6558730
+Mahalanobis 5.51</description>
+                <Point id="525">
+                    <coordinates>49.65587300884093,35.168938098490635,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="528">
+                <name>A_tile100-263 D=5.5</name>
+                <description>lat 35.1647710
+lon 49.6704349
+Mahalanobis 5.51</description>
+                <Point id="527">
+                    <coordinates>49.67043485483906,35.16477096742294,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="530">
+                <name>A_tile100-264 D=5.5</name>
+                <description>lat 35.1683788
+lon 49.6623605
+Mahalanobis 5.49</description>
+                <Point id="529">
+                    <coordinates>49.66236054848215,35.168378775874416,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="532">
+                <name>A_tile100-265 D=5.5</name>
+                <description>lat 35.1655454
+lon 49.6588934
+Mahalanobis 5.47</description>
+                <Point id="531">
+                    <coordinates>49.65889340191099,35.16554536539859,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="534">
+                <name>A_tile100-266 D=5.5</name>
+                <description>lat 35.1701684
+lon 49.6611234
+Mahalanobis 5.47</description>
+                <Point id="533">
+                    <coordinates>49.661123383568345,35.17016837717897,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="536">
+                <name>A_tile100-267 D=5.5</name>
+                <description>lat 35.1792114
+lon 49.6717371
+Mahalanobis 5.47</description>
+                <Point id="535">
+                    <coordinates>49.67173714998942,35.17921143671709,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="538">
+                <name>A_tile100-268 D=5.5</name>
+                <description>lat 35.1728412
+lon 49.6582245
+Mahalanobis 5.47</description>
+                <Point id="537">
+                    <coordinates>49.658224543943184,35.17284120171581,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="540">
+                <name>A_tile100-269 D=5.5</name>
+                <description>lat 35.1730105
+lon 49.6572335
+Mahalanobis 5.46</description>
+                <Point id="539">
+                    <coordinates>49.657233484895556,35.17301054488376,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="542">
+                <name>A_tile100-270 D=5.5</name>
+                <description>lat 35.1737633
+lon 49.6600762
+Mahalanobis 5.46</description>
+                <Point id="541">
+                    <coordinates>49.66007615260527,35.17376333569244,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="544">
+                <name>A_tile100-271 D=5.5</name>
+                <description>lat 35.1749535
+lon 49.6617038
+Mahalanobis 5.45</description>
+                <Point id="543">
+                    <coordinates>49.661703789098695,35.174953457355926,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="546">
+                <name>A_tile100-272 D=5.5</name>
+                <description>lat 35.1632900
+lon 49.6669455
+Mahalanobis 5.45</description>
+                <Point id="545">
+                    <coordinates>49.6669455026153,35.16328999638516,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="548">
+                <name>A_tile100-273 D=5.4</name>
+                <description>lat 35.1718812
+lon 49.6610953
+Mahalanobis 5.43</description>
+                <Point id="547">
+                    <coordinates>49.661095300828094,35.171881173517725,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="550">
+                <name>A_tile100-274 D=5.4</name>
+                <description>lat 35.1710273
+lon 49.6736272
+Mahalanobis 5.42</description>
+                <Point id="549">
+                    <coordinates>49.67362718114006,35.17102726302966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="552">
+                <name>A_tile100-275 D=5.4</name>
+                <description>lat 35.1728081
+lon 49.6633861
+Mahalanobis 5.41</description>
+                <Point id="551">
+                    <coordinates>49.66338607575371,35.17280811130706,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="554">
+                <name>A_tile100-276 D=5.4</name>
+                <description>lat 35.1720548
+lon 49.6686692
+Mahalanobis 5.41</description>
+                <Point id="553">
+                    <coordinates>49.66866915751493,35.1720548282344,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="556">
+                <name>A_tile100-277 D=5.4</name>
+                <description>lat 35.1756236
+lon 49.6570807
+Mahalanobis 5.40</description>
+                <Point id="555">
+                    <coordinates>49.65708069981188,35.175623589998565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="558">
+                <name>A_tile100-278 D=5.4</name>
+                <description>lat 35.1737876
+lon 49.6622719
+Mahalanobis 5.40</description>
+                <Point id="557">
+                    <coordinates>49.66227194587865,35.1737876090353,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="560">
+                <name>A_tile100-279 D=5.4</name>
+                <description>lat 35.1691306
+lon 49.6569679
+Mahalanobis 5.39</description>
+                <Point id="559">
+                    <coordinates>49.656967873398216,35.169130570890154,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="562">
+                <name>A_tile100-280 D=5.4</name>
+                <description>lat 35.1719018
+lon 49.6629617
+Mahalanobis 5.39</description>
+                <Point id="561">
+                    <coordinates>49.66296168270774,35.171901791738264,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="564">
+                <name>A_tile100-281 D=5.4</name>
+                <description>lat 35.1710270
+lon 49.6653917
+Mahalanobis 5.37</description>
+                <Point id="563">
+                    <coordinates>49.66539173669744,35.17102695820672,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="566">
+                <name>A_tile100-282 D=5.4</name>
+                <description>lat 35.1710535
+lon 49.6678070
+Mahalanobis 5.36</description>
+                <Point id="565">
+                    <coordinates>49.66780703375721,35.17105354891451,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="568">
+                <name>A_tile100-283 D=5.4</name>
+                <description>lat 35.1665956
+lon 49.6723816
+Mahalanobis 5.36</description>
+                <Point id="567">
+                    <coordinates>49.6723815536108,35.16659559482672,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="570">
+                <name>A_tile100-284 D=5.4</name>
+                <description>lat 35.1800574
+lon 49.6666718
+Mahalanobis 5.36</description>
+                <Point id="569">
+                    <coordinates>49.666671750819674,35.180057408286245,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="572">
+                <name>A_tile100-285 D=5.4</name>
+                <description>lat 35.1687062
+lon 49.6757511
+Mahalanobis 5.36</description>
+                <Point id="571">
+                    <coordinates>49.675751134077956,35.16870624779586,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="574">
+                <name>A_tile100-286 D=5.3</name>
+                <description>lat 35.1733732
+lon 49.6655730
+Mahalanobis 5.34</description>
+                <Point id="573">
+                    <coordinates>49.66557300698914,35.173373207937566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="576">
+                <name>A_tile100-287 D=5.3</name>
+                <description>lat 35.1778520
+lon 49.6711004
+Mahalanobis 5.34</description>
+                <Point id="575">
+                    <coordinates>49.67110037690258,35.17785199794189,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="578">
+                <name>A_tile100-288 D=5.3</name>
+                <description>lat 35.1756079
+lon 49.6720154
+Mahalanobis 5.33</description>
+                <Point id="577">
+                    <coordinates>49.67201540011339,35.17560794582406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="580">
+                <name>A_tile100-289 D=5.3</name>
+                <description>lat 35.1697963
+lon 49.6682668
+Mahalanobis 5.33</description>
+                <Point id="579">
+                    <coordinates>49.66826676066819,35.169796314151036,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="582">
+                <name>A_tile100-290 D=5.3</name>
+                <description>lat 35.1800107
+lon 49.6706260
+Mahalanobis 5.32</description>
+                <Point id="581">
+                    <coordinates>49.67062596391746,35.18001071578026,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="584">
+                <name>A_tile100-291 D=5.3</name>
+                <description>lat 35.1746474
+lon 49.6666503
+Mahalanobis 5.32</description>
+                <Point id="583">
+                    <coordinates>49.666650291469736,35.17464736234197,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="586">
+                <name>A_tile100-292 D=5.3</name>
+                <description>lat 35.1787978
+lon 49.6669120
+Mahalanobis 5.31</description>
+                <Point id="585">
+                    <coordinates>49.66691195699659,35.17879776413881,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="588">
+                <name>A_tile100-293 D=5.3</name>
+                <description>lat 35.1643820
+lon 49.6596811
+Mahalanobis 5.31</description>
+                <Point id="587">
+                    <coordinates>49.65968108239218,35.164381957610324,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="590">
+                <name>A_tile100-294 D=5.3</name>
+                <description>lat 35.1736817
+lon 49.6608462
+Mahalanobis 5.31</description>
+                <Point id="589">
+                    <coordinates>49.66084615843041,35.173681688762706,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="592">
+                <name>A_tile100-295 D=5.3</name>
+                <description>lat 35.1728995
+lon 49.6634944
+Mahalanobis 5.30</description>
+                <Point id="591">
+                    <coordinates>49.66349438871387,35.172899470127135,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="594">
+                <name>A_tile100-296 D=5.3</name>
+                <description>lat 35.1758731
+lon 49.6633359
+Mahalanobis 5.29</description>
+                <Point id="593">
+                    <coordinates>49.66333590076889,35.17587311642225,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="596">
+                <name>A_tile100-297 D=5.3</name>
+                <description>lat 35.1800332
+lon 49.6644758
+Mahalanobis 5.28</description>
+                <Point id="595">
+                    <coordinates>49.664475784995204,35.180033210965924,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="598">
+                <name>A_tile100-298 D=5.3</name>
+                <description>lat 35.1681714
+lon 49.6763088
+Mahalanobis 5.27</description>
+                <Point id="597">
+                    <coordinates>49.67630881843094,35.16817136145075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="600">
+                <name>A_tile100-299 D=5.3</name>
+                <description>lat 35.1738094
+lon 49.6642482
+Mahalanobis 5.27</description>
+                <Point id="599">
+                    <coordinates>49.664248162067594,35.17380942102442,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="602">
+                <name>A_tile100-300 D=5.3</name>
+                <description>lat 35.1721736
+lon 49.6549413
+Mahalanobis 5.27</description>
+                <Point id="601">
+                    <coordinates>49.65494129318445,35.17217363910123,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
